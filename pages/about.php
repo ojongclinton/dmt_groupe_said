@@ -1,4 +1,7 @@
 <?php
+// Set base path for assets (relative to root)
+$base_path = '../';
+
 // Load configuration
 require_once '../config.php';
 

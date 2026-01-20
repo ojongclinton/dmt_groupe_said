@@ -1,1 +1,4 @@
 settings.local.json
+*.pdf
+*.txt
+README_STRUCTURE.md

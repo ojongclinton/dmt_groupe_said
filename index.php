@@ -112,70 +112,108 @@ require_once 'includes/header.php';
                 </div>
                 <div class="col-lg-12 mt--50">
                     <section class="main-wrapper-sticky">
+                        <!-- Service 1: Hotel Operations -->
                         <div class="sticky-statement">
+                            <div class="left-side">
+                                <div class="icon">
+                                    <img src="assets/images/service/04.svg" alt="service">
+                                </div>
+                                <h5 class="title"><?php echo t('home.services.service1_title'); ?></h5>
+                            </div>
+                            <div class="right">
+                                <p class="disc">
+                                    <?php echo t('home.services.service1_desc'); ?>
+                                </p>
+                                <a href="pages/services.php" class="arrow">
+                                    <i class="fa-regular fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Service 2: Restaurant Marketing -->
+                        <div class="sticky-statement">
+                            <div class="left-side">
+                                <div class="icon">
+                                    <img src="assets/images/service/05.svg" alt="service">
+                                </div>
+                                <h5 class="title"><?php echo t('home.services.service2_title'); ?></h5>
+                            </div>
+                            <div class="right">
+                                <p class="disc">
+                                    <?php echo t('home.services.service2_desc'); ?>
+                                </p>
+                                <a href="pages/services.php" class="arrow">
+                                    <i class="fa-regular fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Service 3: Staff Training -->
+                        <div class="sticky-statement">
+                            <div class="left-side">
+                                <div class="icon">
+                                    <img src="assets/images/service/06.svg" alt="service">
+                                </div>
+                                <h5 class="title"><?php echo t('home.services.service3_title'); ?></h5>
+                            </div>
+                            <div class="right">
+                                <p class="disc">
+                                    <?php echo t('home.services.service3_desc'); ?>
+                                </p>
+                                <a href="pages/services.php" class="arrow">
+                                    <i class="fa-regular fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Service 4: Certification -->
+                        <div class="sticky-statement">
+                            <div class="left-side">
+                                <div class="icon">
+                                    <img src="assets/images/service/07.svg" alt="service">
+                                </div>
+                                <h5 class="title"><?php echo t('home.services.service4_title'); ?></h5>
+                            </div>
+                            <div class="right">
+                                <p class="disc">
+                                    <?php echo t('home.services.service4_desc'); ?>
+                                </p>
+                                <a href="pages/services.php" class="arrow">
+                                    <i class="fa-regular fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Service 5: Digitalization -->
+                        <div class="sticky-statement">
+                            <div class="left-side">
+                                <div class="icon">
+                                    <img src="assets/images/service/12.svg" alt="service">
+                                </div>
+                                <h5 class="title"><?php echo t('home.services.service5_title'); ?></h5>
+                            </div>
+                            <div class="right">
+                                <p class="disc">
+                                    <?php echo t('home.services.service5_desc'); ?>
+                                </p>
+                                <a href="pages/services.php" class="arrow">
+                                    <i class="fa-regular fa-arrow-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Service 6: Concept Design -->
+                        <!-- <div class="sticky-statement">
                             <div class="left-side">
                                 <div class="icon">
                                     <img src="assets/images/service/01.svg" alt="service">
                                 </div>
-                                <h5 class="title"><?php echo t('home.services.business_solution'); ?></h5>
+                                <h5 class="title"><?php echo t('home.services.service6_title'); ?></h5>
                             </div>
                             <div class="right">
                                 <p class="disc">
-                                    <?php echo t('home.services.service_description'); ?>
+                                    <?php echo t('home.services.service6_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow">
+                                <a href="pages/services.php" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/02.svg" alt="service">
-                                </div>
-                                <h5 class="title"><?php echo t('home.services.creative_ideas'); ?></h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    <?php echo t('home.services.service_description'); ?>
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/03.svg" alt="service">
-                                </div>
-                                <h5 class="title"><?php echo t('home.services.market_research'); ?></h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    <?php echo t('home.services.service_description'); ?>
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/01.svg" alt="service">
-                                </div>
-                                <h5 class="title"><?php echo t('home.services.technology_solution'); ?></h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    <?php echo t('home.services.service_description'); ?>
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
+                        </div> -->
                     </section>
                 </div>
             </div>

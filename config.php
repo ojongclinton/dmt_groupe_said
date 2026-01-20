@@ -5,17 +5,21 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // Site Configuration
-define('SITE_NAME', 'Invena Business Consulting');
+define('SITE_NAME', 'DMT GROUPE');
+define('SITE_TAGLINE', 'Le succès est ici');
 define('SITE_URL', 'http://localhost/dmt_group');
 define('ASSETS_PATH', 'assets/');
 
+// Base path for assets (set by each page, defaults to root)
+$base_path = isset($base_path) ? $base_path : '';
+
 // Contact Information
-define('CONTACT_EMAIL', 'support@invena.com');
-define('CONTACT_PHONE', '+256 56778.5678');
-define('CONTACT_ADDRESS', 'XYZ Hilton Street, 125 Town United State');
+define('CONTACT_EMAIL', 'contact@dmtgroupe.com');
+define('CONTACT_PHONE', '+237 651 98 44 83');
+define('CONTACT_ADDRESS', '123 Fifth Avenue, Yaoundé, Cameroun');
 
 // Working Hours
-define('WORKING_HOURS', '8.00am - 5.00pm');
+define('WORKING_HOURS', '8h00 - 17h00');
 
 // Social Media Links
 $social_links = [
@@ -36,7 +40,7 @@ if (isset($_GET['lang']) && in_array($_GET['lang'], $available_languages)) {
     $_SESSION['lang'] = $_GET['lang'];
 }
 
-$current_lang = $_SESSION['lang'] ?? 'en';
+$current_lang = $_SESSION['lang'] ?? 'fr';
 
 // Load language file
 $lang_file = __DIR__ . "/languages/{$current_lang}.php";
