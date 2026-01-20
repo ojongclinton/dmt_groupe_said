@@ -710,4 +710,42 @@ return [
         'form_success' => 'Votre demande a été envoyée avec succès !',
         'form_error' => 'Une erreur s\'est produite. Veuillez réessayer.',
     ],
+
+    // About Page
+    'about_page' => [
+        'page_title' => 'À Propos',
+        'page_subtitle' => 'Qui sommes-nous?',
+
+        // Mission Section
+        'mission_title' => 'NOTRE MISSION',
+        'mission_content' => 'Composée d\'une équipe de jeunes talents spécialisés dans chaque domaine du milieu hôtelier et de la restauration, DMT GROUPE dynamise son secteur en apportant à ses clients un accompagnement de terrain à la fois expert et accessible. Les conseils avisés de notre agence permettent d\'externaliser en toute confiance la direction des opérations des établissements hôteliers et restauratifs que nous accompagnons. Notre mission est claire : permettre à nos clients de performer dans un marché en constante évolution grâce à des solutions agiles, concrètes et adaptées aux réalités du terrain.',
+
+        // Team Section
+        'team_title' => 'L\'ÉQUIPE',
+
+        // Team Member 1
+        'team1_name' => 'EKANI TSANGA DIMITRI GABIN',
+        'team1_role' => 'Consultant/Formateur en restauration et gestion hôtelière',
+        'team1_bio' => 'Une expertise de terrain au service de la performance en hôtellerie-restauration<br>Depuis 2019, <strong>EKANI TSANGA DIMITRI GABIN</strong>, consultant et formateur en <strong>restauration</strong> et <strong>gestion hôtelière</strong>, accompagne les établissements hôteliers et les restaurants dans l\'amélioration de leurs performances, la structuration de leur activité et la montée en compétence de leurs équipes.<br>Fort de plus de 10 ans d\'expérience dans des groupes hôteliers de renom, notamment en tant que <strong>Directeur des Opérations</strong>, il a contribué à l\'ouverture et à la gestion de plusieurs établissements. Son parcours lui a permis d\'acquérir une connaissance fine des enjeux opérationnels et stratégiques du secteur.<br>Aujourd\'hui, il met son expertise au service des <strong>hôteliers et restaurateurs indépendants</strong>, à travers des missions de <strong>conseil</strong>, de <strong>coaching managérial</strong> et de <strong>formation</strong> sur mesure, avec une approche pragmatique et orientée résultats.<br>Sa vision : <strong>moderniser les pratiques, briser les codes traditionnels</strong> et instaurer une culture de la performance durable dans les établissements qu\'il accompagne.',
+
+        // Team Member 2
+        'team2_name' => 'AHMED EL IDRISSI CHAFI',
+        'team2_role' => 'Beverage Manager – Expert en gestion de bars haut de gamme',
+        'team2_bio' => 'Avec une vaste expérience dans la gestion de bars haut de gamme et la supervision d\'équipes de service, <strong>Ahmed El Idrissi Chafi</strong> est un professionnel passionné par l\'univers du bar et de la mixologie. Reconnu pour ses compétences en <strong>management opérationnel</strong>, <strong>formation du personnel</strong> et <strong>expérience client</strong>, il excelle dans la création d\'environnements conviviaux, structurés et performants.<br>Doté d\'un excellent sens du détail et de la satisfaction client, il a dirigé plusieurs équipes avec succès, tout en veillant à maintenir un haut niveau de qualité de service et une carte boissons cohérente, innovante et rentable.<br>Formateur aguerri, il sait transmettre les bonnes pratiques, motiver ses collaborateurs et insuffler une dynamique positive au sein de l\'équipe.',
+
+        // Team Member 3
+        'team3_name' => 'Max junior Nkalle',
+        'team3_role' => 'Consultant en hôtellerie, gastronomie et assurance',
+        'team3_bio' => 'Avec une double expertise en <strong>assurances</strong> et en <strong>gestion hôtelière</strong>, Max Junior Nkalle accompagne les établissements dans la <strong>définition de leur concept</strong>, la <strong>création de menus</strong>, la <strong>formation du personnel</strong> et la <strong>conception de recettes signatures</strong>. Fin connaisseur de la gastronomie, il conseille aussi sur les <strong>assurances adaptées</strong>, l\'<strong>optimisation commerciale</strong>, et la <strong>fidélisation client</strong>. Son approche sur mesure mêle <strong>stratégie, créativité et passion du service</strong>.',
+
+        // Team Member 4
+        'team4_name' => 'Perside WALLON',
+        'team4_role' => 'Cheffe Restauratrice & Experte en Gestion Hôtelière',
+        'team4_bio' => 'Franco-camerounaise passionnée par l\'art culinaire, Perside Wallon cumule plus de <strong>10 ans d\'expérience</strong> dans la restauration. Formée au lycée Charles de Gaulle de Compiègne (Bac Hôtellerie-Restauration), elle s\'est distinguée très tôt en remportant le <strong>Premier Prix du Trophée Roland Luc</strong>, récompensant le meilleur jeune cuisinier de la région Picardie.<br>Titulaire d\'un <strong>BTS Mercatique et Gestion Hôtelière</strong>, elle allie <strong>créativité culinaire et rigueur managériale</strong>. Aujourd\'hui, elle est la <strong>fondatrice du restaurant The Canteen\'s</strong>, concept qu\'elle a imaginé pour valoriser une cuisine généreuse, accessible et ancrée dans les valeurs du partage et de l\'excellence.',
+
+        // Team Member 5
+        'team5_name' => 'Aissatou Vaka',
+        'team5_role' => 'Ingénieure en génie logiciel',
+        'team5_bio' => 'Ingénieure en génie logiciel et consultante en transformation digitale. Elle accompagne les entreprises dans la conception de solutions logicielles sur mesure, l\'optimisation de leurs systèmes informatiques et l\'amélioration de leurs processus métiers. Experte en développement, architecture logicielle et gestion de projets technologiques, elle allie rigueur, innovation et pragmatisme pour apporter des solutions efficaces et adaptées aux besoins de ses clients.',
+    ],
 ];

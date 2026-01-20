@@ -710,4 +710,42 @@ return [
         'form_success' => 'Your request has been sent successfully!',
         'form_error' => 'An error occurred. Please try again.',
     ],
+
+    // About Page
+    'about_page' => [
+        'page_title' => 'About Us',
+        'page_subtitle' => 'Who we are?',
+
+        // Mission Section
+        'mission_title' => 'OUR MISSION',
+        'mission_content' => 'Comprised of a team of young talents specialized in every field of the hotel and restaurant industry, DMT GROUPE energizes its sector by providing clients with field-based support that is both expert and accessible. Our agency\'s informed advice enables the confident outsourcing of operational management for the hotel and restaurant establishments we support. Our mission is clear: to enable our clients to perform in a constantly evolving market through agile, concrete solutions adapted to field realities.',
+
+        // Team Section
+        'team_title' => 'THE TEAM',
+
+        // Team Member 1
+        'team1_name' => 'EKANI TSANGA DIMITRI GABIN',
+        'team1_role' => 'Consultant/Trainer in Restaurant Management and Hotel Operations',
+        'team1_bio' => 'Field expertise serving hospitality-restaurant performance<br>Since 2019, <strong>EKANI TSANGA DIMITRI GABIN</strong>, consultant and trainer in <strong>restaurant management</strong> and <strong>hotel operations</strong>, supports hotels and restaurants in improving their performance, structuring their activities, and developing their teams\' skills.<br>With over 10 years of experience in renowned hotel groups, particularly as <strong>Director of Operations</strong>, he contributed to the opening and management of several establishments. His journey enabled him to acquire detailed knowledge of the sector\'s operational and strategic challenges.<br>Today, he puts his expertise at the service of <strong>independent hoteliers and restaurateurs</strong>, through <strong>consulting</strong>, <strong>managerial coaching</strong>, and customized <strong>training</strong> missions, with a pragmatic, results-oriented approach.<br>His vision: <strong>modernize practices, break traditional codes</strong>, and establish a culture of sustainable performance in the establishments he supports.',
+
+        // Team Member 2
+        'team2_name' => 'AHMED EL IDRISSI CHAFI',
+        'team2_role' => 'Beverage Manager – Expert in High-End Bar Management',
+        'team2_bio' => 'With extensive experience in high-end bar management and service team supervision, <strong>Ahmed El Idrissi Chafi</strong> is a professional passionate about the world of bars and mixology. Recognized for his skills in <strong>operational management</strong>, <strong>staff training</strong>, and <strong>customer experience</strong>, he excels in creating friendly, structured, and high-performing environments.<br>Gifted with excellent attention to detail and customer satisfaction, he has successfully led several teams while maintaining a high level of service quality and a coherent, innovative, and profitable beverage menu.<br>An experienced trainer, he knows how to convey best practices, motivate his colleagues, and instill positive dynamics within the team.',
+
+        // Team Member 3
+        'team3_name' => 'Max junior Nkalle',
+        'team3_role' => 'Consultant in Hospitality, Gastronomy, and Insurance',
+        'team3_bio' => 'With dual expertise in <strong>insurance</strong> and <strong>hotel management</strong>, Max Junior Nkalle supports establishments in <strong>concept definition</strong>, <strong>menu creation</strong>, <strong>staff training</strong>, and <strong>signature recipe development</strong>. A fine connoisseur of gastronomy, he also advises on <strong>appropriate insurance</strong>, <strong>commercial optimization</strong>, and <strong>customer loyalty</strong>. His customized approach blends <strong>strategy, creativity, and passion for service</strong>.',
+
+        // Team Member 4
+        'team4_name' => 'Perside WALLON',
+        'team4_role' => 'Chef & Expert in Hotel Management',
+        'team4_bio' => 'Franco-Cameroonian passionate about culinary arts, Perside Wallon has over <strong>10 years of experience</strong> in the restaurant industry. Trained at Charles de Gaulle High School in Compiègne (Hospitality-Restaurant Baccalaureate), she distinguished herself early by winning the <strong>First Prize of the Roland Luc Trophy</strong>, rewarding the best young chef in the Picardy region.<br>Holder of a <strong>BTS in Marketing and Hotel Management</strong>, she combines <strong>culinary creativity and managerial rigor</strong>. Today, she is the <strong>founder of The Canteen\'s restaurant</strong>, a concept she imagined to promote generous, accessible cuisine anchored in the values of sharing and excellence.',
+
+        // Team Member 5
+        'team5_name' => 'Aissatou Vaka',
+        'team5_role' => 'Software Engineering Professional',
+        'team5_bio' => 'Software engineer and digital transformation consultant. She supports companies in designing customized software solutions, optimizing their IT systems, and improving their business processes. Expert in development, software architecture, and technology project management, she combines rigor, innovation, and pragmatism to provide effective solutions tailored to her clients\' needs.',
+    ],
 ];

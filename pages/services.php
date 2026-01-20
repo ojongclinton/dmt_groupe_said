@@ -309,7 +309,7 @@ require_once '../includes/header.php';
     <!-- faq area end -->
 
     <!-- brand area start -->
-    <div class="rts-brand-area rts-section-gapBottom">
+    <!-- <div class="rts-brand-area rts-section-gapBottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -341,7 +341,7 @@ require_once '../includes/header.php';
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- brand area end -->
 
     <!-- testimonials area start -->
@@ -453,21 +453,6 @@ require_once '../includes/header.php';
     </div>
     <!-- testimonials area end -->
 
-    <!-- cta area start -->
-    <div class="rts-cta-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="cta-wrapper text-center">
-                        <h2 class="title rts-text-anime-style-1"><?php echo t('services_page.cta_title'); ?></h2>
-                        <p class="disc mt--20"><?php echo t('services_page.cta_desc'); ?></p>
-                        <a href="<?php echo $base_path; ?>pages/contact.php" class="rts-btn btn-primary mt--30"><?php echo t('buttons.contact_us'); ?></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- cta area end -->
 
 <?php
 // Include footer
