@@ -21,7 +21,7 @@
     <link rel="stylesheet preload" href="assets/css/style.css" as="style">
 </head>
 
-<body>
+<body class="service-details-page">
     <header class="header-one header--sticky">
         <div class="header-top-area-wrapper">
             <div class="container">
@@ -623,280 +623,350 @@
         </div>
     </header>
 
-    <!-- about us area wrapper main -->
-    <div class="rts-breadcrumb-area small-h">
-        <div class="container">
+
+    <div class="breadcrumb-service-detals-one">
+        <div class="container-full">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="title-area-left center">
-                        <span class="pre">Our Service</span>
-                        <span class="bg-title">Our Service</span>
-                        <h1 class="title rts-text-anime-style-1">
-                            Service We Provide
-                        </h1>
+                    <div class="banner-inner-service-details-1 large-height bg_image">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="title-area-left">
+                                        <span class="bg-title ">Business</span>
+                                        <h1 class="title rts-text-anime-style-1">
+                                            Business Solution
+                                        </h1>
+                                        <p class="disc">
+                                            Intrinsicly coordinate multifunctional functionalities reliable
+                                            potentialities.
+                                            Objectively envisioneer high in convergence through collaborative networks.
+                                            Interactively generate B2C e-tailers for business data restore fully
+                                            researched
+                                            relationships through resource maximizing results.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="shape-area">
-            <img src="assets/images/about/shape/01.png" alt="shape" class="one">
-            <img src="assets/images/about/shape/02.png" alt="shape" class="two">
-            <img src="assets/images/about/shape/03.png" alt="shape" class="three">
-        </div>
     </div>
-    <!-- about us area wrapper main end -->
 
-    <!-- service area start -->
-    <div class="our-service-area-start rts-section-gapBottom">
+    <!-- rts business details area left main -->
+    <div class="rts-service-details-area-main-bottom ">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="rts-service-main-wrapper-10">
-                        <div class="signle-service-style-10">
-                            <div class="content-area-wrapper">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="service-details-left-area mt--0 rts-section-gapTop">
+                        <h3 class="title rts-text-anime-style-1">Business Growth Mangment</h3>
+                        <p class="disc">
+                            Continually myocardinate holistic mindshare with client-based web services. Assertively
+                            e-enable catalysts for change before tested markets. Phosfluorescently maintain wireless
+                            scenarios after intermandated applications. Conveniently predominate revolutionary quality
+                            vectors through future-proof manufactured products. Enthusiastically transform distinctive
+                            collaboration.
+                        </p>
+                        <p class="disc">
+                            Intrinsicly coordinate multifunctional functionalities reliable potentialities. Objectively
+                            envisioneer high in convergence through collaborative networks. Interactively generate B2C
+                            e-tailers for business data restore fully researched relationships through resource
+                            maximizing results.
+                        </p>
+                        <div class="service-short-main-wrapper">
+                            <div class="single-short-service">
                                 <div class="icon">
-                                    <img src="assets/images/service/icons/11.svg" alt="service">
+                                    <img src="assets/images/service/05.svg" alt="">
                                 </div>
-                                <h5 class="title">Business Solution</h5>
-                                <p class="disc">
-                                    Fusce dignissim erat dis proin ornare class sem nibh
-                                </p>
-                                <a href="#" class="arrow-right-btn">Learn More <i
-                                        class="fa-solid fa-arrow-right"></i></a>
+                                <div class="inner-content">
+                                    <h5 class="title-sm">Instant Business Growth</h5>
+                                    <p class="disc">
+                                        Maintain wireless scerios after sure quality vectors future
+                                    </p>
+                                </div>
                             </div>
-                            <div class="thumbnail">
-                                <img src="assets/images/service/07.webp" alt="service">
+                            <div class="single-short-service">
+                                <div class="icon">
+                                    <img src="assets/images/service/06.svg" alt="">
+                                </div>
+                                <div class="inner-content">
+                                    <h5 class="title-sm">24/7 Quality Service</h5>
+                                    <p class="disc">
+                                        Maintain wireless scerios after sure quality vectors future
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="single-short-service">
+                                <div class="icon">
+                                    <img src="assets/images/service/07.svg" alt="">
+                                </div>
+                                <div class="inner-content">
+                                    <h5 class="title-sm">Easy Customer Service</h5>
+                                    <p class="disc">
+                                        Maintain wireless scerios after sure quality vectors future
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="single-short-service">
+                                <div class="icon">
+                                    <img src="assets/images/service/08.svg" alt="">
+                                </div>
+                                <div class="inner-content">
+                                    <h5 class="title-sm">Quality Cost Service</h5>
+                                    <p class="disc">
+                                        Maintain wireless scerios after sure quality vectors future
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                        <div class="signle-service-style-10">
-                            <div class="content-area-wrapper">
-                                <div class="icon">
-                                    <img src="assets/images/service/icons/12.svg" alt="service">
-                                </div>
-                                <h5 class="title">Marketing Solution</h5>
-                                <p class="disc">
-                                    Fusce dignissim erat dis proin ornare class sem nibh
-                                </p>
-                                <a href="#" class="arrow-right-btn">Learn More <i
-                                        class="fa-solid fa-arrow-right"></i></a>
-                            </div>
+                        <p class="disc mt--30">
+                            Phosfluorescently maintain wireless scenarios after intermandated applications. Conveniently
+                            unique predominate revolutionary quality vectors through future-proof manufactured products.
+                            Objectively envisioneer high solution convergence through collaborative networks.
+                            Interactively generate B2C e-tailers for business data restore fully researched
+                            relationships through resource maximizing results.
+                        </p>
+                        <h3 class="title mt--50 rts-text-anime-style-1">2 Simple Steps to Process</h3>
+                        <p class="disc">
+                            Assertively e-enable catalysts for change before fully tested markets. Phosfluo rescently is
+                            maintain solve wireless scenarios after intermandated applications. Conveniently predominate
+                            busin revolutionary quality vectors through future-proof manufactured products.
+                            Enthusiastically transform distinctive collaboration.
+                        </p>
+                        <p class="disc">
+                            Phosfluorescently maintain wireless scenarios after intermandated applications. Conveniently
+                            predominate misslat revolutionary quality vectors through future-proof manufactured
+                            products.
+                        </p>
+                        <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="assets/images/service/08.webp" alt="service">
+                                <img src="assets/images/service/12.webp" alt="service">
+                            </div>
+                            <div class="inner">
+                                <h5 class="title-f">Define Your Objectives and Plan</h5>
+                            </div>
+                            <div class="feature">
+                                <p class="single">Outline Key Features</p>
+                                <p class="single">Choose a Domain Name</p>
+                                <p class="single">Identify Purpose</p>
+                                <p class="single">Understand Your Audience</p>
                             </div>
                         </div>
-                        <div class="signle-service-style-10 order-control-sm-device">
+                        <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="assets/images/service/09.webp" alt="service">
+                                <img src="assets/images/service/13.webp" alt="service">
                             </div>
-                            <div class="content-area-wrapper">
-                                <div class="icon">
-                                    <img src="assets/images/service/icons/13.svg" alt="service">
-                                </div>
-                                <h5 class="title">Agency Marketing</h5>
-                                <p class="disc">
-                                    Fusce dignissim erat dis proin ornare class sem nibh
-                                </p>
-                                <a href="#" class="arrow-right-btn">Learn More <i
-                                        class="fa-solid fa-arrow-right"></i></a>
+                            <div class="inner">
+                                <h5 class="title-f">Build and Design Your Website</h5>
+                            </div>
+                            <div class="feature">
+                                <p class="single">Outline Key Features</p>
+                                <p class="single">Choose a Domain Name</p>
+                                <p class="single">Identify Purpose</p>
+                                <p class="single">Understand Your Audience</p>
                             </div>
                         </div>
-                        <div class="signle-service-style-10 order-control-sm-device">
+                        <div class="accordion faq-wrapper-inner-page mt--50" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        01. What services/products do you offer?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis
+                                        imperdiet
+                                        vivamus est aliquam euismod nector quam convallis ornare justo service visionary
+                                        sources unleash online
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        02. Where i can find my business growth result?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis
+                                        imperdiet
+                                        vivamus est aliquam euismod nector quam convallis ornare justo service visionary
+                                        sources unleash online
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        03. Did you get any business consultant?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis
+                                        imperdiet
+                                        vivamus est aliquam euismod nector quam convallis ornare justo service visionary
+                                        sources unleash online
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        04. Do you need any business invesment policy?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis
+                                        imperdiet
+                                        vivamus est aliquam euismod nector quam convallis ornare justo service visionary
+                                        sources unleash online
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        04. Do you need any business invesment policy?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis
+                                        imperdiet
+                                        vivamus est aliquam euismod nector quam convallis ornare justo service visionary
+                                        sources unleash online
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
-                            <div class="thumbnail">
-                                <img src="assets/images/service/10.webp" alt="service">
-                            </div>
-                            <div class="content-area-wrapper">
-                                <div class="icon">
-                                    <img src="assets/images/service/icons/14.svg" alt="service">
+
+                        <h3 class="title mb--70 mt--80">Popular Pricing</h3>
+
+                        <div class="pricing-list-style-wrapper service-details-page">
+                            <div class="single-list-pricing-area">
+                                <!-- pricing area -->
+                                <div class="pricing-area">
+                                    <div class="head">
+                                        <span>Starter Package</span>
+                                        <h3 class="title">Basic Plan</h3>
+                                    </div>
+                                    <div class="pricing">
+                                        <h3 class="pricing">$260
+                                            <span>/month</span>
+                                        </h3>
+                                    </div>
                                 </div>
-                                <h5 class="title">Business Marketing</h5>
-                                <p class="disc">
-                                    Fusce dignissim erat dis proin ornare class sem nibh
-                                </p>
-                                <a href="#" class="arrow-right-btn">Learn More <i
-                                        class="fa-solid fa-arrow-right"></i></a>
+                                <!-- pricing area -->
+                                <div class="feature-button-wrapper">
+
+                                    <div class="feature-area-wrapper">
+                                        <div class="feature-row-wrapper">
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Business Solution</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>24/7 Consultant Service</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Great Customer Support</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="rts-btn btn-primary btn-white">Buy This</a>
+                                </div>
+                            </div>
+                            <div class="single-list-pricing-area">
+                                <!-- pricing area -->
+                                <div class="pricing-area">
+                                    <div class="head">
+                                        <span>Starter Package</span>
+                                        <h3 class="title">Strandard</h3>
+                                    </div>
+                                    <div class="pricing">
+                                        <h3 class="pricing">$260
+                                            <span>/month</span>
+                                        </h3>
+                                    </div>
+                                </div>
+                                <!-- pricing area -->
+                                <div class="feature-button-wrapper">
+
+                                    <div class="feature-area-wrapper">
+                                        <div class="feature-row-wrapper">
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Business Solution</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>24/7 Consultant Service</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Great Customer Support</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="rts-btn btn-primary btn-white">Buy This</a>
+                                </div>
+                            </div>
+                            <div class="single-list-pricing-area">
+                                <!-- pricing area -->
+                                <div class="pricing-area">
+                                    <div class="head">
+                                        <span>Premium Package</span>
+                                        <h3 class="title">Premium</h3>
+                                    </div>
+                                    <div class="pricing">
+                                        <h3 class="pricing">$340
+                                            <span>/month</span>
+                                        </h3>
+                                    </div>
+                                </div>
+                                <!-- pricing area -->
+                                <div class="feature-button-wrapper">
+
+                                    <div class="feature-area-wrapper">
+                                        <div class="feature-row-wrapper">
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Business Solution</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>24/7 Consultant Service</p>
+                                            </div>
+                                            <div class="signle">
+                                                <i class="fa-sharp fa-light fa-circle-check"></i>
+                                                <p>Great Customer Support</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="#" class="rts-btn btn-primary btn-white">Buy This</a>
+                                </div>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- service area end -->
-    <!-- eorking process areas start -->
-    <div class="working-process-one bg-main rts-section-gap without-clip-radious">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6">
-                    <div class="title-style-one">
-                        <span class="pre">How we works</span>
-                        <h2 class="title rts-text-anime-style-1">Easy 3 Steps To Work
-                        </h2>
-                    </div>
-                    <div class="working-process-main-wrapper mt--60">
-                        <div class="single-working-process-one" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
-                            <div class="left">
-                                <div class="icon">
-                                    <img src="assets/images/process/icon/01.svg" alt="process">
-                                </div>
-                            </div>
-                            <div class="inner-content">
-                                <div class="number-main">
-                                    <span class="number">01</span>
-                                </div>
-                                <h5 class="title">Client Discovery</h5>
-                                <p class="disc">
-                                    The agency begins by understanding the
-                                    client's needs, goals, and
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-working-process-one" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
-                            <div class="left">
-                                <div class="icon">
-                                    <img src="assets/images/process/icon/02.svg" alt="process">
-                                </div>
-                            </div>
-                            <div class="inner-content">
-                                <div class="number-main">
-                                    <span class="number">02</span>
-                                </div>
-                                <h5 class="title">Research & Analysis</h5>
-                                <p class="disc">
-                                    The agency begins by understanding the
-                                    client's needs, goals, and
-                                </p>
-                            </div>
-                        </div>
-                        <div class="single-working-process-one" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
-                            <div class="left">
-                                <div class="icon">
-                                    <img src="assets/images/process/icon/03.svg" alt="process">
-                                </div>
-                            </div>
-                            <div class="inner-content">
-                                <div class="number-main">
-                                    <span class="number">03</span>
-                                </div>
-                                <h5 class="title">Strategy Development</h5>
-                                <p class="disc">
-                                    The agency begins by understanding the
-                                    client's needs, goals, and
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="thumbnail-working-procss-one" data-animation="zoomOut" data-delay="0.2" data-duration="1.2">
-                        <img src="assets/images/process/03.webp" alt="working-process">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- eorking process areas end -->
+    <!-- rts business details area left main end -->
 
-    <!-- faq area start -->
-    <div class="rts-faq-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-five center">
-                        <span class="pre">FAQ</span>
-                        <h2 class="title rts-text-anime-style-1">Frequently Asked Questions</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container-full mt--40">
-            <div class="row g-5">
-                <div class="col-lg-6">
-                    <div class="thumbnail-faq-left">
-                        <img src="assets/images/faq/02.webp" alt="faq-iumage area">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="accordion faq-wrapper-inner-page" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    01. What services/products do you offer?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet
-                                    vivamus est aliquam euismod nector quam convallis ornare justo service visionary
-                                    sources unleash online
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    02. Where i can find my business growth result?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet
-                                    vivamus est aliquam euismod nector quam convallis ornare justo service visionary
-                                    sources unleash online
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    03. Did you get any business consultant?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet
-                                    vivamus est aliquam euismod nector quam convallis ornare justo service visionary
-                                    sources unleash online
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    04. Do you need any business invesment policy?
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet
-                                    vivamus est aliquam euismod nector quam convallis ornare justo service visionary
-                                    sources unleash online
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    04. Do you need any business invesment policy?
-                                </button>
-                            </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Neque partrient sed nascetur facilisis suscipit ridiculus magna lobortis imperdiet
-                                    vivamus est aliquam euismod nector quam convallis ornare justo service visionary
-                                    sources unleash online
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- faq area start -->
 
-    <!-- brand area start -->
-    <div class="rts-brand-area rts-section-gapBottom">
+    <div class="rts-brand-area rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -929,122 +999,8 @@
             </div>
         </div>
     </div>
-    <!-- brand area end -->
 
-    <!-- tectimonisl-area start -->
-    <div class="rts-testimonials-area-five bg_image rts-section-gapBottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-between-area">
-                        <div class="title-style-five">
-                            <span class="pre">Our Testimonials</span>
-                            <h2 class="title rts-text-anime-style-1">Our Customer Feedbacks
-                            </h2>
-                        </div>
-                        <div class="pagination-wrapper">
-                            <div class="swiper-button-prevs"><i class="fa-sharp fa-regular fa-arrow-left"></i></div>
-                            <div class="swiper-pagination-fractions"></div>
-                            <div class="swiper-button-nexts"><i class="fa-sharp fa-regular fa-arrow-right"></i></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--10">
-                <div class="col-lg-12">
-                    <div class="swiper mySwiper-testimonials-5">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="single-testimonials-style-five">
-                                    <div class="thumbnail">
-                                        <img src="assets/images/testimonials/03.webp" alt="testimoanils">
-                                    </div>
-                                    <div class="inner-content">
-                                        <div class="name-area">
-                                            <h5 class="title">Jonathon Doe</h5>
-                                            <span>Finance</span>
-                                        </div>
-                                        <p class="disc">
-                                            “Dabus nisl aliquet congue tellus nascetur lectus sagpien mattis arcu
-                                            dictums augue
-                                            volutpat felis etiam suspendisse rhoncus mauris dignissim ante”
-                                        </p>
-                                        <div class="body-end">
-                                            <a href="#"><img src="assets/images/testimonials/icons/03.webp" alt="Client_logo"></a>
-                                            <div class="star-icon">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="single-testimonials-style-five">
-                                    <div class="thumbnail">
-                                        <img src="assets/images/testimonials/04.webp" alt="testimoanils">
-                                    </div>
-                                    <div class="inner-content">
-                                        <div class="name-area">
-                                            <h5 class="title">Jonathon Doe</h5>
-                                            <span>Finance</span>
-                                        </div>
-                                        <p class="disc">
-                                            “Dabus nisl aliquet congue tellus nascetur lectus sagpien mattis arcu
-                                            dictums augue
-                                            volutpat felis etiam suspendisse rhoncus mauris dignissim ante”
-                                        </p>
-                                        <div class="body-end">
-                                            <a href="#"><img src="assets/images/testimonials/icons/02.webp" alt="Client_logo"></a>
-                                            <div class="star-icon">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="single-testimonials-style-five">
-                                    <div class="thumbnail">
-                                        <img src="assets/images/testimonials/03.webp" alt="testimoanils">
-                                    </div>
-                                    <div class="inner-content">
-                                        <div class="name-area">
-                                            <h5 class="title">Jonathon Doe</h5>
-                                            <span>Finance</span>
-                                        </div>
-                                        <p class="disc">
-                                            “Dabus nisl aliquet congue tellus nascetur lectus sagpien mattis arcu
-                                            dictums augue
-                                            volutpat felis etiam suspendisse rhoncus mauris dignissim ante”
-                                        </p>
-                                        <div class="body-end">
-                                            <a href="#"><img src="assets/images/testimonials/icons/03.webp" alt="Client_logo"></a>
-                                            <div class="star-icon">
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                                <i class="fas fa-star"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- tectimonisl-area end -->
+
 
     <!-- rts cta area start -->
     <div class="rts-cta-area-inner bg_image ptb--100">
@@ -1175,6 +1131,7 @@
         </div>
     </div>
     <!-- footer area start -->
+
 
     <div id="side-bar" class="side-bar header-two">
         <button class="close-icon-menu" title="Close menu"><i class="far fa-times"></i></button>

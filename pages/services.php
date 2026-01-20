@@ -15,38 +15,30 @@ $current_page = 'services';
 require_once '../includes/header.php';
 ?>
 
-    <!-- rts banner area start -->
-    <div class="rts-banner-area banner-inner-area bg_image bg_service">
+    <!-- about us area wrapper main -->
+    <div class="rts-breadcrumb-area small-h">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="banner-inner-wrapper text-center">
+                    <div class="title-area-left center">
                         <span class="pre"><?php echo t('nav.home'); ?> / <?php echo t('services_page.breadcrumb'); ?></span>
-                        <h1 class="title"><?php echo t('services_page.title'); ?></h1>
+                        <span class="bg-title"><?php echo t('services_page.breadcrumb'); ?></span>
+                        <h1 class="title rts-text-anime-style-1">
+                            <?php echo t('services_page.title'); ?>
+                        </h1>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="shape-area">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/01.png" alt="shape" class="one">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/02.png" alt="shape" class="two">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/03.png" alt="shape" class="three">
+        </div>
     </div>
-    <!-- rts banner area end -->
+    <!-- about us area wrapper main end -->
 
-    <!-- service intro area start -->
-    <div class="rts-service-intro rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-one center">
-                        <span class="pre"><?php echo t('home.services.pre_title'); ?></span>
-                        <h2 class="title rts-text-anime-style-1"><?php echo t('home.services.title'); ?></h2>
-                        <p class="disc mt--20" style="max-width: 800px; margin: 20px auto 0;">
-                            <?php echo t('home.services.page_intro'); ?>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- service intro area end -->
+
 
     <!-- service area start -->
     <div class="our-service-area-start rts-section-gapBottom">
@@ -64,7 +56,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service1_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-hotel-operations.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
                                 <img src="<?php echo $base_path; ?>assets/images/service/07.webp" alt="service">
@@ -80,7 +72,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service2_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-restaurant-marketing.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
                                 <img src="<?php echo $base_path; ?>assets/images/service/08.webp" alt="service">
@@ -99,7 +91,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service3_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-staff-training.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <!-- Service 4 -->
@@ -115,7 +107,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service4_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-certification.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <!-- Service 5 -->
@@ -128,7 +120,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service5_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-digitalization.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
                                 <img src="<?php echo $base_path; ?>assets/images/service/07.webp" alt="service">
@@ -144,7 +136,7 @@ require_once '../includes/header.php';
                                 <p class="disc">
                                     <?php echo t('home.services.service6_desc'); ?>
                                 </p>
-                                <a href="#" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="<?php echo $base_path; ?>pages/service-concept-design.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
                                 <img src="<?php echo $base_path; ?>assets/images/service/08.webp" alt="service">
