@@ -108,7 +108,7 @@
                         <div class="header-main-one-wrapper">
                             <div class="thumbnail">
                                 <a href="<?php echo $base_path; ?>index.php">
-                                    <img src="<?php echo $base_path; ?>assets/images/logo/01.svg" alt="<?php echo SITE_NAME; ?>">
+                                    <img src="<?php echo $base_path; ?>assets/images/logo/logo.png" style="max-width: 200px; max-height: 80px; object-fit: cover;" alt="<?php echo SITE_NAME; ?>">
                                 </a>
                             </div>
                             <div class="main-header">
