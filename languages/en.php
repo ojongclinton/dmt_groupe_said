@@ -113,6 +113,11 @@ return [
         'boost' => [
             'bstpre_title' => 'Boost Your Business Today',
             'bst_title' => 'Most Reliable Efficient Consulting Agency',
+            'bst_txt' => 'We support hotels and restaurants in optimizing their operational performance, structuring their teams, and implementing sustainable strategies. Our approach combines on-the-ground expertise, staff training, and strategic consulting to sustainably improve profitability and service quality.',
+            'bstaft_txt1' => 'Fast Growing Sells',
+            'bstaft_txt2' => '24/7 Quality Services',
+            'bstaft_txt3' => 'Expert Members',
+            'bstaft_txt4' => 'Best Quality Services',
         ],
 
         // Why Choose Us Section

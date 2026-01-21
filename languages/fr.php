@@ -112,7 +112,12 @@ return [
         //boost area section
         'boost' => [
             'bstpre_title' => 'Boostez votre activité dès aujourd\'hui',
-            'bst_title' => 'Agence de conseil experte, fiable et orientée résultats',
+            'bst_title' => 'Agence de conseil experte et orientée résultats',
+            'bst_txt' => 'Nous accompagnons les établissements hôteliers et de restauration dans l\’optimisation de leurs performances opérationnelles, la structuration de leurs équipes et la mise en place de stratégies durables. Notre approche allie expertise terrain, formation du personnel et conseil stratégique pour améliorer durablement la rentabilité et la qualité de service.',
+            'bstaft_txt1' => 'Croissance du chiffre d’affaires',
+            'bstaft_txt2' => 'Services de qualité 24h/24 et 7j/7',
+            'bstaft_txt3' => 'Équipe d’experts spécialisés',
+            'bstaft_txt4' => 'Services haute gamme',
         ],
 
         // Why Choose Us Section

@@ -417,26 +417,24 @@ require_once 'includes/header.php';
                                         </h2>
                                     </div>
                                     <p class="disc">
-                                        Porttitor ornare fermentum aliquam pharetra ut facilisis gravida risus suscipit
-                                        feugiat fusce conubia ridiculus tristique solving parturient natoque vulputate
-                                        risu hasellus quam tincidunt posuere aliquam accumsan
+                                        <?php echo t('home.boost.bst_txt'); ?>
                                     </p>
                                     <div class="feature-one-wrapper mt--40 pl_sm--0">
                                         <div class="single-feature-one active">
                                             <i class="fal fa-check"></i>
-                                            <p>Fast Growing Sells</p>
+                                            <p><?php echo t('home.boost.bstaft_txt1'); ?></p>
                                         </div>
                                         <div class="single-feature-one">
                                             <i class="fal fa-check"></i>
-                                            <p>24/7 Quality Services</p>
+                                            <p><?php echo t('home.boost.bstaft_txt2'); ?></p>
                                         </div>
                                         <div class="single-feature-one">
                                             <i class="fal fa-check"></i>
-                                            <p>Expert Members</p>
+                                            <p><?php echo t('home.boost.bstaft_txt3'); ?></p>
                                         </div>
                                         <div class="single-feature-one">
                                             <i class="fal fa-check"></i>
-                                            <p>Best Quality Services</p>
+                                            <p><?php echo t('home.boost.bstaft_txt4'); ?></p>
                                         </div>
                                     </div>
                                 </div>
