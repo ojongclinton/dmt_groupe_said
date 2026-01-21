@@ -109,6 +109,12 @@ return [
             'step3_desc' => 'Nous vous accompagnons dans l\'implémentation, formons vos équipes et assurons le suivi des résultats.',
         ],
 
+        //boost area section
+        'boost' => [
+            'bstpre_title' => 'Boostez votre activité dès aujourd\'hui',
+            'bst_title' => 'Agence de conseil experte, fiable et orientée résultats',
+        ],
+
         // Why Choose Us Section
         'why_choose' => [
             'title' => 'Pourquoi choisir DMT Groupe ?',

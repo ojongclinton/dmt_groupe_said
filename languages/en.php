@@ -109,6 +109,12 @@ return [
             'step3_desc' => 'We support you in implementation, train your teams, and monitor results.',
         ],
 
+        //boost area section
+        'boost' => [
+            'bstpre_title' => 'Boost Your Business Today',
+            'bst_title' => 'Most Reliable Efficient Consulting Agency',
+        ],
+
         // Why Choose Us Section
         'why_choose' => [
             'title' => 'Why Choose DMT Groupe?',

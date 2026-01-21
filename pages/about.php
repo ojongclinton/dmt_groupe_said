@@ -187,6 +187,169 @@ require_once '../includes/header.php';
     </div>
     <!-- team section end -->
 
+    <!-- rts business goal area start -->
+    <div class="business-goal-area-2 rts-section-gapBottom">
+        <div class="container pt--30">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="consultancy-style-one">
+                        <div class="title-style-two mb--40 left">
+                            <span class="bg-content">Business Goal</span>
+                            <span class="pre">JUST A CONSULTANCY</span>
+                            <h2 class="title rts-text-anime-style-1">We know how to manage <br>
+                                business globally
+                            </h2>
+                        </div>
+                        <div class="signle-consultancy mb--30">
+                            <div class="icon">
+                                <img src="assets/images/about/icons/01.svg" alt="">
+                            </div>
+                            <div class="information">
+                                <h4 class="title">Best Business Consulting</h4>
+                                <p class="disc">
+                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
+                                    gravida
+                                    rutrum
+                                </p>
+                            </div>
+                        </div>
+                        <div class="signle-consultancy">
+                            <div class="icon">
+                                <img src="assets/images/about/icons/02.svg" alt="">
+                            </div>
+                            <div class="information">
+                                <h4 class="title">24/7 Customer Support</h4>
+                                <p class="disc">
+                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
+                                    gravida
+                                    rutrum
+                                </p>
+                            </div>
+                        </div>
+                        <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
+                            <a href="#" class="rts-btn btn-primary">Contact Us</a>
+                            <div class="vedio-icone">
+                                <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=vZE0j_WCRvI">
+                                    <span></span>
+                                </a>
+                                <div class="video-overlay">
+                                    <a href="#section1" class="video-overlay-close">×</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="thumbnail-business-area-right-two">
+                        <div class="large-thumbnail">
+                            <img src="assets/images/business-goal/02.webp" alt="">
+                        </div>
+                        <div class="small-thumbnail images-r">
+                            <img src="assets/images/business-goal/01.webp" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- rts clients review area start -->
+    <div class="rts-client-review-area rts-section-gapBottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-area-between-wrapper">
+                        <div class="title-style-two mb--40 left">
+                            <span class="bg-content">Review</span>
+                            <span class="pre">Our Testimonial</span>
+                            <h2 class="title rts-text-anime-style-1">Our Client Reviews
+                            </h2>
+                        </div>
+                        <div class="pagination-wrapper">
+                            <div class="swiper-pagination-fraction"></div>
+                            <div class="swiper-button-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></div>
+                            <div class="swiper-button-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="testimonials-wrapper-swiper-demo-2">
+                        <div class="swiper mySwiper-testimonials-dmeo-2">
+                            <div class="swiper-wrapper">
+
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                I can't recommend The Gourmet Haven enough. It's a place for special
+                                                occasions, date
+                                                nights, or whenever you're in the mood for a culinary adventure. The
+                                                combination of
+                                                exceptional.
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">William Henry</h6>
+                                                <p>Designer at <b>Vertex Agency</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                I can't recommend The Gourmet Haven enough. It's a place for special
+                                                occasions, date
+                                                nights, or whenever you're in the mood for a culinary adventure. The
+                                                combination of
+                                                exceptional.
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">William Henry</h6>
+                                                <p>Designer at <b>Vertex Agency</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                I can't recommend The Gourmet Haven enough. It's a place for special
+                                                occasions, date
+                                                nights, or whenever you're in the mood for a culinary adventure. The
+                                                combination of
+                                                exceptional.
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">William Henry</h6>
+                                                <p>Designer at <b>Vertex Agency</b></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts clients review area end -->
+
 <?php
 // Include footer
 require_once '../includes/footer.php';
