@@ -711,6 +711,20 @@ return [
         'form_error' => 'Une erreur s\'est produite. Veuillez réessayer.',
     ],
 
+    // Contact Page
+    'contact_page' => [
+        'page_title' => 'Contactez-Nous',
+        'page_subtitle' => 'Contactez-Nous',
+        'form_name_placeholder' => 'Votre nom',
+        'form_phone_placeholder' => 'Votre numéro de téléphone',
+        'form_message_placeholder' => 'Parlez-nous de votre projet...',
+        'form_subject_placeholder' => 'Sujet',
+        'form_company_placeholder' => 'Nom de votre entreprise',
+        'form_submit' => 'Envoyer le message',
+        'form_success' => 'Votre message a été envoyé avec succès!',
+        'form_error' => 'Une erreur est survenue. Veuillez réessayer.',
+    ],
+
     // About Page
     'about_page' => [
         'page_title' => 'À Propos',

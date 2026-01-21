@@ -6,8 +6,8 @@ $base_path = '../';
 require_once '../config.php';
 
 // Page specific variables
-$page_title = 'Contact Us - Invena Business Consulting';
-$page_description = 'Get in touch with Invena Business Consulting. We are here to help your business grow.';
+$page_title = t('nav.contact') . ' - ' . SITE_NAME;
+$page_description = 'Contact DMT Groupe for expert consulting services for hotels and restaurants. Get in touch with our team to discuss your project.';
 $body_class = 'contact-page';
 $current_page = 'contact';
 
@@ -15,115 +15,81 @@ $current_page = 'contact';
 require_once '../includes/header.php';
 ?>
 
-    <!-- rts breadcrumb area start -->
-    <div class="rts-breadcrumb-area breadcrumb-bg bg_image">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">
-                    <h1 class="title">Contact Us</h1>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="bread-tag">
-                        <a href="../index.php">Home</a>
-                        <span> / </span>
-                        <a href="#" class="active">Contact Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- rts breadcrumb area end -->
 
-    <!-- contact area start -->
-    <div class="rts-contact-area rts-section-gap">
+    <div class="rts-breadcrumb-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="title-style-one center">
-                        <span class="pre">Get In Touch</span>
-                        <h2 class="title rts-text-anime-style-1">Let's Start a Conversation
-                        </h2>
+                    <div class="title-area-left center">
+                        <span class="bg-title">Contact</span>
+                        <h1 class="title rts-text-anime-style-1">
+                            <?php echo t('nav.contact'); ?>
+                        </h1>
                     </div>
                 </div>
             </div>
-            <div class="row g-5 mt--30">
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="contact-info-card">
-                        <div class="icon">
-                            <i class="fas fa-phone-alt"></i>
-                        </div>
-                        <div class="content">
-                            <h5 class="title">Call Us</h5>
-                            <a href="tel:<?php echo CONTACT_PHONE; ?>"><?php echo CONTACT_PHONE; ?></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="contact-info-card">
-                        <div class="icon">
-                            <i class="fas fa-envelope"></i>
-                        </div>
-                        <div class="content">
-                            <h5 class="title">Email Us</h5>
-                            <a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="contact-info-card">
-                        <div class="icon">
-                            <i class="fas fa-map-marker-alt"></i>
-                        </div>
-                        <div class="content">
-                            <h5 class="title">Visit Us</h5>
-                            <p><?php echo CONTACT_ADDRESS; ?></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        </div>
+        <div class="shape-area">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/01.png" alt="shape" class="one">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/02.png" alt="shape" class="two">
+            <img src="<?php echo $base_path; ?>assets/images/about/shape/03.png" alt="shape" class="three">
+        </div>
+    </div>
 
-            <div class="row mt--60">
+
+    <!-- contact areas main -->
+    <div class="rts-contact-area-in-page" data-animation="fadeInUp" data-delay="0.2">
+        <div class="container">
+            <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="contact-form-wrapper">
-                        <h3 class="title">Send Us a Message</h3>
-                        <form action="#" method="post" class="contact-form">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="name" placeholder="Your Name" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="email" name="email" placeholder="Your Email" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input type="text" name="subject" placeholder="Subject" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <button type="submit" class="rts-btn btn-primary">Send Message</button>
-                                </div>
+                    <div class="contact-info-area-wrapper-p new">
+                        <div class="single-contact-info">
+                            <div class="icon">
+                                <i class="fa-solid fa-phone-flip"></i>
                             </div>
-                        </form>
+                            <div class="info-wrapper">
+                                <span><?php echo t('footer.call_us_247'); ?></span>
+                                <a href="tel:+25621452156">(+256) 2145.2156</a>
+                            </div>
+                        </div>
+                        <div class="single-contact-info">
+                            <div class="icon">
+                                <i class="fa-solid fa-envelope"></i>
+                            </div>
+                            <div class="info-wrapper">
+                                <span><?php echo t('footer.work_with_us_email'); ?></span>
+                                <a href="mailto:info@dmtgroupe.com">info@dmtgroupe.com</a>
+                            </div>
+                        </div>
+                        <div class="single-contact-info">
+                            <div class="icon">
+                                <i class="fa-solid fa-location-dot"></i>
+                            </div>
+                            <div class="info-wrapper">
+                                <span><?php echo t('footer.our_location'); ?></span>
+                                <a href="#">Douala, Cameroun</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="contact-map-wrapper">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.636737072925!2d-73.98823492346552!3d40.74844097138555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1702395816144!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <div class="contact-form-p new">
+                        <form class="form__content" method="post" action="mailer.php" id="contact-form">
+                            <h3 class="title"><?php echo t('contact_page.page_subtitle'); ?></h3>
+                            <input name="name" id="name" type="text" placeholder="<?php echo t('contact_page.form_name_placeholder'); ?>" required>
+                            <input type="email" name="email" id="email" placeholder="your@email.com" required>
+                            <input name="phone" id="phone" type="tel" placeholder="<?php echo t('contact_page.form_phone_placeholder'); ?>">
+                            <textarea name="message" id="message" placeholder="<?php echo t('contact_page.form_message_placeholder'); ?>" required></textarea>
+
+                            <button class="rts-btn btn-primary" type="submit"><?php echo t('contact_page.form_submit'); ?></button>
+                        </form>
+                        <div id="form-messages"></div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- contact area end -->
+    <!-- contact areas main end -->
 
 <?php
 // Include footer

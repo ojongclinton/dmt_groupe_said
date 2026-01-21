@@ -711,6 +711,20 @@ return [
         'form_error' => 'An error occurred. Please try again.',
     ],
 
+    // Contact Page
+    'contact_page' => [
+        'page_title' => 'Contact Us',
+        'page_subtitle' => 'Get in Touch',
+        'form_name_placeholder' => 'Your name',
+        'form_phone_placeholder' => 'Your phone number',
+        'form_message_placeholder' => 'Tell us about your project...',
+        'form_subject_placeholder' => 'Subject',
+        'form_company_placeholder' => 'Your company name',
+        'form_submit' => 'Send Message',
+        'form_success' => 'Your message has been sent successfully!',
+        'form_error' => 'An error occurred. Please try again.',
+    ],
+
     // About Page
     'about_page' => [
         'page_title' => 'About Us',
