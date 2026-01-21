@@ -112,7 +112,7 @@ return [
         //boost area section
         'boost' => [
             'bstpre_title' => 'Boostez votre activité dès aujourd\'hui',
-            'bst_title' => 'Agence de conseil experte et orientée résultats',
+            'bst_title' => 'Agence de conseil expertegi et orientée résultats',
             'bst_txt' => 'Nous accompagnons les établissements hôteliers et de restauration dans l\’optimisation de leurs performances opérationnelles, la structuration de leurs équipes et la mise en place de stratégies durables. Notre approche allie expertise terrain, formation du personnel et conseil stratégique pour améliorer durablement la rentabilité et la qualité de service.',
             'bstaft_txt1' => 'Croissance du chiffre d’affaires',
             'bstaft_txt2' => 'Services de qualité 24h/24 et 7j/7',
@@ -758,5 +758,25 @@ return [
         'team5_name' => 'Aissatou Vaka',
         'team5_role' => 'Ingénieure en génie logiciel',
         'team5_bio' => 'Ingénieure en génie logiciel et consultante en transformation digitale. Elle accompagne les entreprises dans la conception de solutions logicielles sur mesure, l\'optimisation de leurs systèmes informatiques et l\'amélioration de leurs processus métiers. Experte en développement, architecture logicielle et gestion de projets technologiques, elle allie rigueur, innovation et pragmatisme pour apporter des solutions efficaces et adaptées aux besoins de ses clients.',
+
+        //Business goal
+        'business_goal' => [
+            'busg_backg' => 'Objectifs stratégiques',
+            'busgpre_title' => 'Bien plus qu’un cabinet de conseil',
+            'busg_title' => ' Nous accompagnons les entreprises à l’échelle internationale',
+            'sub1_title' => 'Conseil stratégique à forte valeur ajoutée',
+            'sub1_txt' => 'Nous aidons les établissements à structurer leur organisation et renforcer leur compétitivité grâce à des stratégies adaptées au terrain.',
+            'sub2_title' => 'Assistance 24h/24 et 7j/7',
+            'sub2_txt' => 'Nos équipes assurent un suivi continu et un accompagnement opérationnel afin de garantir la mise en œuvre efficace des recommandations.',
+        ],
+
+        //Review
+        'review' => [
+            'rev_backg' => 'Avis',
+            'revpre_title' => 'Notre témoignage',
+            'rev_title' => 'Avis de nos clients',
+            'rev_txt' => 'Nous recommandons vivement The Famous. C’est un établissement idéal pour les occasions spéciales, les dîners professionnels ou toute expérience culinaire exigeante. La qualité des prestations et le niveau de service sont tout simplement remarquables.',
+        ]
     ],
+
 ];

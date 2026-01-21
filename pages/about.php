@@ -194,10 +194,10 @@ require_once '../includes/header.php';
                 <div class="col-lg-6">
                     <div class="consultancy-style-one">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Business Goal</span>
-                            <span class="pre">JUST A CONSULTANCY</span>
-                            <h2 class="title rts-text-anime-style-1">We know how to manage <br>
-                                business globally
+                            <span class="bg-content"><?php echo t('about_page.business_goal.busg_backg'); ?></span>
+                            <span class="pre"><?php echo t('about_page.business_goal.busgpre_title'); ?></span>
+                            <h2 class="title rts-text-anime-style-1">
+                                <?php echo t('about_page.business_goal.busg_title'); ?>
                             </h2>
                         </div>
                         <div class="signle-consultancy mb--30">
@@ -205,11 +205,9 @@ require_once '../includes/header.php';
                                 <img src="assets/images/about/icons/01.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">Best Business Consulting</h4>
+                                <h4 class="title"><?php echo t('about_page.business_goal.sub1_title'); ?></h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    <?php echo t('about_page.business_goal.sub1_txt'); ?>
                                 </p>
                             </div>
                         </div>
@@ -218,11 +216,9 @@ require_once '../includes/header.php';
                                 <img src="assets/images/about/icons/02.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">24/7 Customer Support</h4>
+                                <h4 class="title"><?php echo t('about_page.business_goal.sub2_title'); ?></h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    <?php echo t('about_page.business_goal.sub2_txt'); ?>
                                 </p>
                             </div>
                         </div>
@@ -260,9 +256,9 @@ require_once '../includes/header.php';
                 <div class="col-lg-12">
                     <div class="title-area-between-wrapper">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Review</span>
-                            <span class="pre">Our Testimonial</span>
-                            <h2 class="title rts-text-anime-style-1">Our Client Reviews
+                            <span class="bg-content"><?php echo t('about_page.review.rev_backg'); ?></span>
+                            <span class="pre"><?php echo t('about_page.review.revpre_title'); ?></span>
+                            <h2 class="title rts-text-anime-style-1"><?php echo t('about_page.review.rev_title'); ?>
                             </h2>
                         </div>
                         <div class="pagination-wrapper">
@@ -287,15 +283,11 @@ require_once '../includes/header.php';
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                <?php echo t('about_page.review.rev_txt'); ?>
                                             </p>
                                             <div class="name-desig">
                                                 <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
                                             </div>
                                         </div>
                                     </div>

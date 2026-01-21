@@ -758,5 +758,24 @@ return [
         'team5_name' => 'Aissatou Vaka',
         'team5_role' => 'Software Engineering Professional',
         'team5_bio' => 'Software engineer and digital transformation consultant. She supports companies in designing customized software solutions, optimizing their IT systems, and improving their business processes. Expert in development, software architecture, and technology project management, she combines rigor, innovation, and pragmatism to provide effective solutions tailored to her clients\' needs.',
+
+        //Business goal
+        'business_goal' => [
+            'busg_backg' => 'Business Goal',
+            'busgpre_title' => 'NOT JUST A CONSULTANCY',
+            'busg_title' => 'We know how to manage business globally',
+            'sub1_title' => 'Best Business Consulting',
+            'sub1_txt' => 'We help institutions to structure their organization and strengthen their competitiveness through strategies adapted to the field.',
+            'sub2_title' => '24/7 Customer Support',
+            'sub2_txt' => 'Our teams provide continuous monitoring and operational support to ensure the effective implementation of recommendations.',
+        ],
+
+        //Review
+        'review' => [
+            'rev_backg' => 'Review',
+            'revpre_title' => 'Our Testimonial',
+            'rev_title' => 'Our Client Reviews',
+            'rev_txt' => 'I recommend The Famous enough. It\'s a place for special occasions, date nights, or whenever you\'re in the mood for a culinary adventure. The combination of exceptional.',
+        ]
     ],
 ];
