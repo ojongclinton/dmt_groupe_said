@@ -22,11 +22,11 @@
                         </div>
                         <div class="wized-2-body">
                             <ul>
-                                <li><a href="<?php echo $base_path; ?>pages/services.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service1_title'); ?></a></li>
-                                <li><a href="<?php echo $base_path; ?>pages/services.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service2_title'); ?></a></li>
-                                <li><a href="<?php echo $base_path; ?>pages/services.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service3_title'); ?></a></li>
-                                <li><a href="<?php echo $base_path; ?>pages/services.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service4_title'); ?></a></li>
-                                <li><a href="<?php echo $base_path; ?>pages/services.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service5_title'); ?></a></li>
+                                <li><a href="<?php echo $base_path; ?>pages/service-hotel-operations.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service1_title'); ?></a></li>
+                                <li><a href="<?php echo $base_path; ?>pages/service-restaurant-marketing.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service2_title'); ?></a></li>
+                                <li><a href="<?php echo $base_path; ?>pages/service-staff-training.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service3_title'); ?></a></li>
+                                <li><a href="<?php echo $base_path; ?>pages/service-certification.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service4_title'); ?></a></li>
+                                <li><a href="<?php echo $base_path; ?>pages/service-digitalization.php"><i class="fal fa-chevron-double-right"></i><?php echo t('home.services.service5_title'); ?></a></li>
                             </ul>
                         </div>
                     </div>
@@ -168,12 +168,12 @@
                     <li class="has-droupdown">
                         <a href="#" class="main" aria-expanded="false"><?php echo t('nav.service'); ?></a>
                         <ul class="submenu mm-collapse" style="height: 0px;">
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service1_title'); ?></a></li>
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service2_title'); ?></a></li>
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service3_title'); ?></a></li>
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service4_title'); ?></a></li>
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service5_title'); ?></a></li>
-                            <li><a href="<?php echo $base_path; ?>pages/services.php"><?php echo t('home.services.service6_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-hotel-operations.php"><?php echo t('home.services.service1_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-restaurant-marketing.php"><?php echo t('home.services.service2_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-staff-training.php"><?php echo t('home.services.service3_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-certification.php"><?php echo t('home.services.service4_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-digitalization.php"><?php echo t('home.services.service5_title'); ?></a></li>
+                            <li><a href="<?php echo $base_path; ?>pages/service-concept-design.php"><?php echo t('home.services.service6_title'); ?></a></li>
                         </ul>
                     </li>
 
