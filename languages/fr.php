@@ -109,6 +109,17 @@ return [
             'step3_desc' => 'Nous vous accompagnons dans l\'implémentation, formons vos équipes et assurons le suivi des résultats.',
         ],
 
+        //boost area section
+        'boost' => [
+            'bstpre_title' => 'Boostez votre activité dès aujourd\'hui',
+            'bst_title' => 'Agence de conseil experte et orientée résultats',
+            'bst_txt' => 'Nous accompagnons vos établissements dans l’optimisation de leurs performances, la structuration de leurs équipes et la mise en place de stratégies durables. Notre approche allie expertise terrain, formation du personnel et conseil stratégique pour améliorer durablement la rentabilité et la qualité de service.',
+            'bstaft_txt1' => 'Croissance du chiffre d’affaires',
+            'bstaft_txt2' => 'Services H24 et 7j/7',
+            'bstaft_txt3' => 'Équipe d’experts',
+            'bstaft_txt4' => 'Services de qualité',
+        ],
+
         // Why Choose Us Section
         'why_choose' => [
             'title' => 'Pourquoi choisir DMT Groupe ?',
@@ -761,5 +772,28 @@ return [
         'team5_name' => 'Aissatou Vaka',
         'team5_role' => 'Ingénieure en génie logiciel',
         'team5_bio' => 'Ingénieure en génie logiciel et consultante en transformation digitale. Elle accompagne les entreprises dans la conception de solutions logicielles sur mesure, l\'optimisation de leurs systèmes informatiques et l\'amélioration de leurs processus métiers. Experte en développement, architecture logicielle et gestion de projets technologiques, elle allie rigueur, innovation et pragmatisme pour apporter des solutions efficaces et adaptées aux besoins de ses clients.',
+
+        //Business goal
+        'business_goal' => [
+            'busg_backg' => 'Objectifs stratégiques',
+            'busgpre_title' => 'Bien plus qu’un cabinet de conseil',
+            'busg_title' => ' Nous accompagnons les entreprises à l’échelle internationale',
+            'sub1_title' => 'Conseil stratégique à forte valeur ajoutée',
+            'sub1_txt' => 'Nous aidons les établissements à structurer leur organisation et renforcer leur compétitivité grâce à des stratégies adaptées au terrain.',
+            'sub2_title' => 'Assistance 24h/24 et 7j/7',
+            'sub2_txt' => 'Nos équipes assurent un suivi continu et un accompagnement opérationnel afin de garantir la mise en œuvre efficace des recommandations.',
+            'busg_cont' => 'Contactez-nous',
+        ],
+
+        //Review
+        'review' => [
+            'rev_backg' => 'Avis',
+            'revpre_title' => 'Notre témoignage',
+            'rev_title' => 'Avis de nos clients',
+            'rev_txt1' => 'L’accompagnement stratégique a permis d’améliorer sensiblement la qualité de service et l’organisation interne. L’impact sur la satisfaction client et la performance globale a été immédiat et durable.',
+            'rev_txt2' => 'Grâce à cet accompagnement, notre établissement a gagné en efficacité, en cohérence managériale et en rentabilité. La formation du personnel a eu un impact direct et mesurable sur la qualité du service.',
+            'rev_txt3' => 'Une expertise solide, une approche pragmatique et une excellente compréhension des enjeux de l’hôtellerie et de la restauration. Les recommandations étaient claires, concrètes et efficaces.',
+        ]
     ],
+
 ];

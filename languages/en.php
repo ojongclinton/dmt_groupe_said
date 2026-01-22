@@ -109,6 +109,17 @@ return [
             'step3_desc' => 'We support you in implementation, train your teams, and monitor results.',
         ],
 
+        //boost area section
+        'boost' => [
+            'bstpre_title' => 'Boost Your Business Today',
+            'bst_title' => 'Most Reliable Efficient Consulting Agency',
+            'bst_txt' => 'We support hotels and restaurants in optimizing their operational performance, structuring their teams, and implementing sustainable strategies. Our approach combines on-the-ground expertise, staff training, and strategic consulting to sustainably improve profitability and service quality.',
+            'bstaft_txt1' => 'Fast Growing Sells',
+            'bstaft_txt2' => '24/7 Quality Services',
+            'bstaft_txt3' => 'Expert Members',
+            'bstaft_txt4' => 'Best Quality Services',
+        ],
+
         // Why Choose Us Section
         'why_choose' => [
             'title' => 'Why Choose DMT Groupe?',
@@ -761,5 +772,27 @@ return [
         'team5_name' => 'Aissatou Vaka',
         'team5_role' => 'Software Engineering Professional',
         'team5_bio' => 'Software engineer and digital transformation consultant. She supports companies in designing customized software solutions, optimizing their IT systems, and improving their business processes. Expert in development, software architecture, and technology project management, she combines rigor, innovation, and pragmatism to provide effective solutions tailored to her clients\' needs.',
+
+        //Business goal
+        'business_goal' => [
+            'busg_backg' => 'Business Goal',
+            'busgpre_title' => 'NOT JUST A CONSULTANCY',
+            'busg_title' => 'We know how to manage business globally',
+            'sub1_title' => 'Best Business Consulting',
+            'sub1_txt' => 'We help institutions to structure their organization and strengthen their competitiveness through strategies adapted to the field.',
+            'sub2_title' => '24/7 Customer Support',
+            'sub2_txt' => 'Our teams provide continuous monitoring and operational support to ensure the effective implementation of recommendations.',
+            'busg_cont' => 'Contact Us',
+        ],
+
+        //Review
+        'review' => [
+            'rev_backg' => 'Review',
+            'revpre_title' => 'Our Testimonial',
+            'rev_title' => 'Our Client Reviews',
+            'rev_txt1' => 'The strategic support provided significantly improved our service quality and internal organization. The impact on customer satisfaction and overall performance was immediate and sustainable.',
+            'rev_txt2' => 'Thanks to this consulting support, our establishment gained efficiency, managerial consistency, and profitability. Staff training had a direct and measurable impact on service quality.',
+            'rev_txt3' => 'Strong expertise, a pragmatic approach, and a deep understanding of the hospitality and restaurant industry. The recommendations were clear, actionable, and highly effective.',
+        ]
     ],
 ];

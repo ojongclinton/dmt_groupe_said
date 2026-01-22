@@ -397,6 +397,55 @@ require_once 'includes/header.php';
     </div>
     <!-- eorking process areas end -->
 
+    <!-- business boost area start -->
+    <div class="boost-your-business-today mt--70">
+        <div class="container-2">
+            <div class="col-lg-12">
+                <div class="business-boost-wrapper-main rts-section-gap">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <div class="business-marklting-area-thumb">
+                                    <img src="assets/images/business/01.webp" alt="business_area">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 offset-lg-1">
+                                <div class="boosting-business-right-area">
+                                    <div class="title-style-one left">
+                                        <span class="pre"><?php echo t('home.boost.bstpre_title'); ?></span>
+                                        <h2 class="title rts-text-anime-style-1"><?php echo t('home.boost.bst_title'); ?>
+                                        </h2>
+                                    </div>
+                                    <p class="disc">
+                                        <?php echo t('home.boost.bst_txt'); ?>
+                                    </p>
+                                    <div class="feature-one-wrapper mt--40 pl_sm--0">
+                                        <div class="single-feature-one active">
+                                            <i class="fal fa-check"></i>
+                                            <p><?php echo t('home.boost.bstaft_txt1'); ?></p>
+                                        </div>
+                                        <div class="single-feature-one">
+                                            <i class="fal fa-check"></i>
+                                            <p><?php echo t('home.boost.bstaft_txt2'); ?></p>
+                                        </div>
+                                        <div class="single-feature-one">
+                                            <i class="fal fa-check"></i>
+                                            <p><?php echo t('home.boost.bstaft_txt3'); ?></p>
+                                        </div>
+                                        <div class="single-feature-one">
+                                            <i class="fal fa-check"></i>
+                                            <p><?php echo t('home.boost.bstaft_txt4'); ?></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- business boost area end -->
 <?php
 // Include footer
 require_once 'includes/footer.php';

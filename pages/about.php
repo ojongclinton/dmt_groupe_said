@@ -187,6 +187,153 @@ require_once '../includes/header.php';
     </div>
     <!-- team section end -->
 
+    <!-- rts business goal area start -->
+    <div class="business-goal-area-2 rts-section-gapBottom">
+        <div class="container pt--30">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="consultancy-style-one">
+                        <div class="title-style-two mb--40 left">
+                            <span class="bg-content"><?php echo t('about_page.business_goal.busg_backg'); ?></span>
+                            <span class="pre"><?php echo t('about_page.business_goal.busgpre_title'); ?></span>
+                            <h2 class="title rts-text-anime-style-1">
+                                <?php echo t('about_page.business_goal.busg_title'); ?>
+                            </h2>
+                        </div>
+                        <div class="signle-consultancy mb--30">
+                            <div class="icon">
+                                <img src="../assets/images/about/icons/01.svg" alt="">
+                            </div>
+                            <div class="information">
+                                <h4 class="title"><?php echo t('about_page.business_goal.sub1_title'); ?></h4>
+                                <p class="disc">
+                                    <?php echo t('about_page.business_goal.sub1_txt'); ?>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="signle-consultancy">
+                            <div class="icon">
+                                <img src="../assets/images/about/icons/02.svg" alt="">
+                            </div>
+                            <div class="information">
+                                <h4 class="title"><?php echo t('about_page.business_goal.sub2_title'); ?></h4>
+                                <p class="disc">
+                                    <?php echo t('about_page.business_goal.sub2_txt'); ?>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
+                            <a href="#" class="rts-btn btn-primary"><?php echo t('about_page.business_goal.busg_cont'); ?></a>
+                            <div class="vedio-icone">
+                                <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=vZE0j_WCRvI">
+                                    <span></span>
+                                </a>
+                                <div class="video-overlay">
+                                    <a href="#section1" class="video-overlay-close">×</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="thumbnail-business-area-right-two">
+                        <div class="large-thumbnail">
+                            <img src="../assets/images/business-goal/02.webp" alt="">
+                        </div>
+                        <div class="small-thumbnail images-r">
+                            <img src="../assets/images/business-goal/01.webp" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- rts clients review area start -->
+    <div class="rts-client-review-area rts-section-gapBottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-area-between-wrapper">
+                        <div class="title-style-two mb--40 left">
+                            <span class="bg-content"><?php echo t('about_page.review.rev_backg'); ?></span>
+                            <span class="pre"><?php echo t('about_page.review.revpre_title'); ?></span>
+                            <h2 class="title rts-text-anime-style-1"><?php echo t('about_page.review.rev_title'); ?>
+                            </h2>
+                        </div>
+                        <div class="pagination-wrapper">
+                            <div class="swiper-pagination-fraction"></div>
+                            <div class="swiper-button-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></div>
+                            <div class="swiper-button-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="testimonials-wrapper-swiper-demo-2">
+                        <div class="swiper mySwiper-testimonials-dmeo-2">
+                            <div class="swiper-wrapper">
+
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                <?php echo t('about_page.review.rev_txt1'); ?>
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">Franck N'Guessan</h6>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                <?php echo t('about_page.review.rev_txt2'); ?>
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">Jean-Marc kouam</h6>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonials-main-wrapper-two">
+                                        <div class="left-thumbnail">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
+                                        </div>
+                                        <div class="right-content-testimonials">
+                                            <p class="disc">
+                                                <?php echo t('about_page.review.rev_txt3'); ?>
+                                            </p>
+                                            <div class="name-desig">
+                                                <h6 class="title">Daniel Foster</h6>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts clients review area end -->
+
 <?php
 // Include footer
 require_once '../includes/footer.php';
