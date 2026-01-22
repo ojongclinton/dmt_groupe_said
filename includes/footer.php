@@ -166,7 +166,7 @@
 
                     <!-- Services - Dropdown -->
                     <li class="has-droupdown">
-                        <a href="#" class="main" aria-expanded="false"><?php echo t('nav.service'); ?></a>
+                        <a href="<?php echo $base_path; ?>pages/services.php" class="main" aria-expanded="false"><?php echo t('nav.service'); ?></a>
                         <ul class="submenu mm-collapse" style="height: 0px;">
                             <li><a href="<?php echo $base_path; ?>pages/service-hotel-operations.php"><?php echo t('home.services.service1_title'); ?></a></li>
                             <li><a href="<?php echo $base_path; ?>pages/service-restaurant-marketing.php"><?php echo t('home.services.service2_title'); ?></a></li>
