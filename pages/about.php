@@ -202,7 +202,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="signle-consultancy mb--30">
                             <div class="icon">
-                                <img src="assets/images/about/icons/01.svg" alt="">
+                                <img src="../assets/images/about/icons/01.svg" alt="">
                             </div>
                             <div class="information">
                                 <h4 class="title"><?php echo t('about_page.business_goal.sub1_title'); ?></h4>
@@ -213,7 +213,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="signle-consultancy">
                             <div class="icon">
-                                <img src="assets/images/about/icons/02.svg" alt="">
+                                <img src="../assets/images/about/icons/02.svg" alt="">
                             </div>
                             <div class="information">
                                 <h4 class="title"><?php echo t('about_page.business_goal.sub2_title'); ?></h4>
@@ -223,7 +223,7 @@ require_once '../includes/header.php';
                             </div>
                         </div>
                         <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
-                            <a href="#" class="rts-btn btn-primary">Contact Us</a>
+                            <a href="#" class="rts-btn btn-primary"><?php echo t('about_page.business_goal.busg_cont'); ?></a>
                             <div class="vedio-icone">
                                 <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=vZE0j_WCRvI">
                                     <span></span>
@@ -238,10 +238,10 @@ require_once '../includes/header.php';
                 <div class="col-lg-6">
                     <div class="thumbnail-business-area-right-two">
                         <div class="large-thumbnail">
-                            <img src="assets/images/business-goal/02.webp" alt="">
+                            <img src="../assets/images/business-goal/02.webp" alt="">
                         </div>
                         <div class="small-thumbnail images-r">
-                            <img src="assets/images/business-goal/01.webp" alt="">
+                            <img src="../assets/images/business-goal/01.webp" alt="">
                         </div>
                     </div>
                 </div>
@@ -279,14 +279,14 @@ require_once '../includes/header.php';
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                <?php echo t('about_page.review.rev_txt'); ?>
+                                                <?php echo t('about_page.review.rev_txt1'); ?>
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
+                                                <h6 class="title">Franck N'Guessan</h6>
                                                 <!-- <p>Designer at <b>Vertex Agency</b></p> -->
                                             </div>
                                         </div>
@@ -295,19 +295,15 @@ require_once '../includes/header.php';
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                <?php echo t('about_page.review.rev_txt2'); ?>
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Jean-Marc kouam</h6>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
                                             </div>
                                         </div>
                                     </div>
@@ -315,19 +311,15 @@ require_once '../includes/header.php';
                                 <div class="swiper-slide">
                                     <div class="testimonials-main-wrapper-two">
                                         <div class="left-thumbnail">
-                                            <img src="assets/images/testimonials/01.webp" alt="testimonials">
+                                            <img src="../assets/images/testimonials/01.webp" alt="testimonials">
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                <?php echo t('about_page.review.rev_txt3'); ?>
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Daniel Foster</h6>
+                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
                                             </div>
                                         </div>
                                     </div>

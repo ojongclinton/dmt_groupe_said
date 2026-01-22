@@ -768,6 +768,7 @@ return [
             'sub1_txt' => 'We help institutions to structure their organization and strengthen their competitiveness through strategies adapted to the field.',
             'sub2_title' => '24/7 Customer Support',
             'sub2_txt' => 'Our teams provide continuous monitoring and operational support to ensure the effective implementation of recommendations.',
+            'busg_cont' => 'Contact Us',
         ],
 
         //Review
@@ -775,7 +776,9 @@ return [
             'rev_backg' => 'Review',
             'revpre_title' => 'Our Testimonial',
             'rev_title' => 'Our Client Reviews',
-            'rev_txt' => 'I recommend The Famous enough. It\'s a place for special occasions, date nights, or whenever you\'re in the mood for a culinary adventure. The combination of exceptional.',
+            'rev_txt1' => 'The strategic support provided significantly improved our service quality and internal organization. The impact on customer satisfaction and overall performance was immediate and sustainable.',
+            'rev_txt2' => 'Thanks to this consulting support, our establishment gained efficiency, managerial consistency, and profitability. Staff training had a direct and measurable impact on service quality.',
+            'rev_txt3' => 'Strong expertise, a pragmatic approach, and a deep understanding of the hospitality and restaurant industry. The recommendations were clear, actionable, and highly effective.',
         ]
     ],
 ];

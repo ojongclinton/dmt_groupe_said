@@ -112,12 +112,12 @@ return [
         //boost area section
         'boost' => [
             'bstpre_title' => 'Boostez votre activité dès aujourd\'hui',
-            'bst_title' => 'Agence de conseil expertegi et orientée résultats',
-            'bst_txt' => 'Nous accompagnons les établissements hôteliers et de restauration dans l\’optimisation de leurs performances opérationnelles, la structuration de leurs équipes et la mise en place de stratégies durables. Notre approche allie expertise terrain, formation du personnel et conseil stratégique pour améliorer durablement la rentabilité et la qualité de service.',
+            'bst_title' => 'Agence de conseil experte et orientée résultats',
+            'bst_txt' => 'Nous accompagnons vos établissements dans l’optimisation de leurs performances, la structuration de leurs équipes et la mise en place de stratégies durables. Notre approche allie expertise terrain, formation du personnel et conseil stratégique pour améliorer durablement la rentabilité et la qualité de service.',
             'bstaft_txt1' => 'Croissance du chiffre d’affaires',
-            'bstaft_txt2' => 'Services de qualité 24h/24 et 7j/7',
-            'bstaft_txt3' => 'Équipe d’experts spécialisés',
-            'bstaft_txt4' => 'Services haute gamme',
+            'bstaft_txt2' => 'Services H24 et 7j/7',
+            'bstaft_txt3' => 'Équipe d’experts',
+            'bstaft_txt4' => 'Services de qualité',
         ],
 
         // Why Choose Us Section
@@ -768,6 +768,7 @@ return [
             'sub1_txt' => 'Nous aidons les établissements à structurer leur organisation et renforcer leur compétitivité grâce à des stratégies adaptées au terrain.',
             'sub2_title' => 'Assistance 24h/24 et 7j/7',
             'sub2_txt' => 'Nos équipes assurent un suivi continu et un accompagnement opérationnel afin de garantir la mise en œuvre efficace des recommandations.',
+            'busg_cont' => 'Contactez-nous',
         ],
 
         //Review
@@ -775,7 +776,9 @@ return [
             'rev_backg' => 'Avis',
             'revpre_title' => 'Notre témoignage',
             'rev_title' => 'Avis de nos clients',
-            'rev_txt' => 'Nous recommandons vivement The Famous. C’est un établissement idéal pour les occasions spéciales, les dîners professionnels ou toute expérience culinaire exigeante. La qualité des prestations et le niveau de service sont tout simplement remarquables.',
+            'rev_txt1' => 'L’accompagnement stratégique a permis d’améliorer sensiblement la qualité de service et l’organisation interne. L’impact sur la satisfaction client et la performance globale a été immédiat et durable.',
+            'rev_txt2' => 'Grâce à cet accompagnement, notre établissement a gagné en efficacité, en cohérence managériale et en rentabilité. La formation du personnel a eu un impact direct et mesurable sur la qualité du service.',
+            'rev_txt3' => 'Une expertise solide, une approche pragmatique et une excellente compréhension des enjeux de l’hôtellerie et de la restauration. Les recommandations étaient claires, concrètes et efficaces.',
         ]
     ],
 
