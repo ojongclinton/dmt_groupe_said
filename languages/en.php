@@ -771,7 +771,7 @@ return [
         // Team Member 5
         'team5_name' => 'Aissatou Vaka',
         'team5_role' => 'Software Engineering Professional',
-        'team5_bio' => 'Software engineer and digital transformation consultant. She supports companies in designing customized software solutions, optimizing their IT systems, and improving their business processes. Expert in development, software architecture, and technology project management, she combines rigor, innovation, and pragmatism to provide effective solutions tailored to her clients\' needs.',
+        'team5_bio' => 'Software Engineer and Digital Transformation Consultant. She supports organizations in designing <strong>tailored software solutions</strong> and optimizing their <strong>IT systems</strong>.<br>A graduate of the National Advanced School of Engineering in Computer Science and Telecommunications, with a specialization in <strong>Information Management Systems, Systems Analysis and Programming</strong>, she has a strong academic background focused on information systems design, functional analysis, and the development of <strong>application solutions</strong> for demanding professional environments.<br>Through a results-driven approach, she helps organizations streamline workflows, automate critical processes, and leverage data effectively to support strategic decision-making. Her expertise enables leadership teams to gain clearer visibility into performance, reduce operational friction, and accelerate digital transformation without disrupting day-to-day operations.',
 
         //Business goal
         'business_goal' => [
