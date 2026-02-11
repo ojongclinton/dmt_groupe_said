@@ -261,8 +261,19 @@ require_once '../includes/header.php';
                             <h3 class="title rts-text-anime-style-1"><?php echo t('service_detail_digitalization.form_title'); ?></h3>
                             <p class="disc"><?php echo t('service_detail_digitalization.form_subtitle'); ?></p>
                         </div>
+                        <?php
+                        $form_success = isset($_GET['form_success']) && (int)$_GET['form_success'] === 1;
+                        $form_error = isset($_GET['form_error']) && (int)$_GET['form_error'] === 1;
+                        $form_message = isset($_GET['form_message']) ? htmlspecialchars($_GET['form_message'], ENT_QUOTES, 'UTF-8') : '';
+                        ?>
+                        <?php if ($form_success): ?>
+                            <div class="form-alert form-alert--success" role="alert"><?php echo t('contact_page.form_success'); ?></div>
+                        <?php elseif ($form_error): ?>
+                            <div class="form-alert form-alert--error" role="alert"><?php echo $form_message ?: t('contact_page.form_error'); ?></div>
+                        <?php endif; ?>
                         <form action="<?php echo $base_path; ?>includes/process-form.php" method="post" class="service-contact-form">
                             <input type="hidden" name="service_type" value="digitalization">
+                            <input type="hidden" name="return_url" value="<?php echo htmlspecialchars((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . '://' . ($_SERVER['HTTP_HOST'] ?? '') . $_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8'); ?>">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group mb--20">

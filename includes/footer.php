@@ -272,6 +272,20 @@
     <script defer src="<?php echo $base_path; ?>assets/js/plugins/contact.form.js"></script>
 
     <script defer src="<?php echo $base_path; ?>assets/js/main.js"></script>
+    <script>
+    (function() {
+        document.querySelectorAll('form[action*="process-form.php"]').forEach(function(form) {
+            form.addEventListener('submit', function() {
+                var btn = form.querySelector('button[type="submit"]');
+                if (btn && !btn.disabled) {
+                    btn.disabled = true;
+                    btn.dataset.originalText = btn.textContent;
+                    btn.textContent = (btn.getAttribute('data-sending-text') || 'Sending…');
+                }
+            });
+        });
+    })();
+    </script>
 </body>
 
 </html>

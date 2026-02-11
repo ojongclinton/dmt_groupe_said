@@ -74,16 +74,33 @@ require_once '../includes/header.php';
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-form-p new">
-                        <form class="form__content" method="post" action="mailer.php" id="contact-form">
+                        <?php
+                        $form_success = isset($_GET['form_success']) && (int)$_GET['form_success'] === 1;
+                        $form_error = isset($_GET['form_error']) && (int)$_GET['form_error'] === 1;
+                        $form_message = isset($_GET['form_message']) ? htmlspecialchars($_GET['form_message'], ENT_QUOTES, 'UTF-8') : '';
+                        ?>
+                        <?php if ($form_success): ?>
+                            <div id="form-messages" class="form-alert form-alert--success" role="alert">
+                                <?php echo t('contact_page.form_success'); ?>
+                            </div>
+                        <?php elseif ($form_error): ?>
+                            <div id="form-messages" class="form-alert form-alert--error" role="alert">
+                                <?php echo $form_message ?: t('contact_page.form_error'); ?>
+                            </div>
+                        <?php else: ?>
+                            <div id="form-messages" class="form-alert form-alert--hidden" aria-live="polite"></div>
+                        <?php endif; ?>
+                        <form class="form__content" method="post" action="<?php echo $base_path; ?>includes/process-form.php" id="dmt-contact-form">
+                            <input type="hidden" name="form_type" value="contact">
+                            <input type="hidden" name="return_url" value="<?php echo htmlspecialchars((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . '://' . ($_SERVER['HTTP_HOST'] ?? '') . $_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8'); ?>">
                             <h3 class="title"><?php echo t('contact_page.page_subtitle'); ?></h3>
-                            <input name="name" id="name" type="text" placeholder="<?php echo t('contact_page.form_name_placeholder'); ?>" required>
-                            <input type="email" name="email" id="email" placeholder="your@email.com" required>
+                            <input name="name" id="name" type="text" placeholder="<?php echo t('contact_page.form_name_placeholder'); ?> *" required>
+                            <input type="email" name="email" id="email" placeholder="your@email.com *" required>
                             <input name="phone" id="phone" type="tel" placeholder="<?php echo t('contact_page.form_phone_placeholder'); ?>">
-                            <textarea name="message" id="message" placeholder="<?php echo t('contact_page.form_message_placeholder'); ?>" required></textarea>
+                            <textarea name="message" id="message" placeholder="<?php echo t('contact_page.form_message_placeholder'); ?> *" required></textarea>
 
-                            <button class="rts-btn btn-primary" type="submit"><?php echo t('contact_page.form_submit'); ?></button>
+                            <button class="rts-btn btn-primary" type="submit" id="contact-submit-btn"><?php echo t('contact_page.form_submit'); ?></button>
                         </form>
-                        <div id="form-messages"></div>
                     </div>
                 </div>
             </div>

@@ -47,6 +47,11 @@
         color: white;
         border-color: #007bff;
     }
+    /* Form submission feedback */
+    .form-alert { padding: 14px 18px; border-radius: 6px; margin-bottom: 20px; font-weight: 500; }
+    .form-alert--success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+    .form-alert--error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+    .form-alert--hidden { display: none; }
     </style>
 </head>
 
