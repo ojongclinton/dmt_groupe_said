@@ -10305,7 +10305,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   margin: 5px 0;
 }
 .about-inner-content-two .about-between-wrapper .check-wrapper-area .single-check i {
-  color: #20282D;
+  color: #1F3A93;
 }
 .about-inner-content-two .about-between-wrapper .check-wrapper-area .single-check p {
   margin: 0;
@@ -10379,7 +10379,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .left-thumbnail-about-area-two .counter-about-area {
   position: absolute;
   padding: 50px 33px;
-  background: #20282D;
+  background: #1F3A93;
   position: absolute;
   top: 50px;
   left: -75px;
@@ -10424,7 +10424,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 }
 
 .about-content-right-three .about-feature {
-  border: 1px solid rgba(32, 40, 45, 0.1490196078);
+  border: 1px solid rgba(31, 58, 147, 0.1490196078);
   border-radius: 20px;
   margin-bottom: 55px;
   max-width: 80%;
@@ -10438,7 +10438,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   display: flex;
   align-items: center;
   padding: 17px 20px;
-  border-bottom: 1px solid rgba(32, 40, 45, 0.1490196078);
+  border-bottom: 1px solid rgba(31, 58, 147, 0.1490196078);
 }
 .about-content-right-three .about-feature .single-feature-wrap .single {
   flex-basis: 48%;
@@ -11169,7 +11169,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .thumbnail-accountent-why-choose .counter-about-area {
   position: absolute;
   padding: 50px 33px;
-  background: #20282D;
+  background: #1F3A93;
   position: absolute;
   top: 50px;
   left: -75px;
@@ -13744,7 +13744,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   margin: auto;
   border-radius: 50%;
   margin-bottom: 20px;
-  background: var(--color-heading-1);
+  background: #1F3A93;
 }
 .signle-fun-facts-one .title {
   font-size: 48px;
@@ -13752,7 +13752,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 .signle-fun-facts-one span.bototm {
   font-size: 18px;
-  color: var(--color-heading-1);
+  color: #1F3A93;
 }
 
 .index-one {
