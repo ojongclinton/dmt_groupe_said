@@ -44,7 +44,7 @@
 ==============================================  */
 /* Default  */
 :root {
-  --color-primary: #20282D;
+  --color-primary: #800020;
   --color-secondary: #1F1F25;
   --color-blue: #0b4df5;
   --color-sky: #82b440;
@@ -88,7 +88,7 @@
   --transition: 0.3s;
   --font-primary: "Red Hat Display", serif;
   --font-secondary: "DM Sans", serif;
-  --font-3: "fontawesome";
+  --font-3: 'fontawesome';
   --font-size-b1: 16px;
   --font-size-b2: 15px;
   --font-size-b3: 22px;
@@ -7845,7 +7845,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   line-height: 82px;
   margin-bottom: 23px;
   font-size: 60px;
-  color: var(--color-primary);
+  color: var(--color-heading-1);
   line-height: 1.3;
 }
 @media only screen and (max-width: 575px) {
@@ -7855,7 +7855,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 }
 .banner-style-one .banner-one-inner .title span {
   font-style: italic;
-  color: var(--color-primary);
+  color: var(--color-heading-1);
   font-weight: 400;
   font-size: 70px;
   line-height: 1.3;
@@ -11447,7 +11447,7 @@ section.main-wrapper-sticky .sticky-statement .right p {
 section.main-wrapper-sticky .sticky-statement .right .arrow {
   height: 62px;
   width: 62px;
-  background: #20282D;
+  background: #1F3A93;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11528,7 +11528,7 @@ section.main-wrapper-sticky .sticky-statement .right .arrow i {
   box-shadow: 0px 30px 20px rgba(182, 182, 182, 0.1);
 }
 .service-style-swiper-wrapper-two .swiper-slide-active .single-service-signle-wrapper .arrow-right i {
-  background: #20282D;
+  background: #1F3A93;
   color: #fff;
 }
 
@@ -11712,7 +11712,7 @@ section.main-wrapper-sticky .sticky-statement .right .arrow i {
   border-radius: 10px;
   font-weight: 700;
   font-size: 30px;
-  color: #20282D;
+  color: #1F3A93;
 }
 .business-goal-main-wrapper-6 .inner-content .title {
   margin-bottom: 7px;
@@ -11752,7 +11752,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   justify-content: space-between;
   padding: 28px 30px;
   border-radius: 50px;
-  background: #20282D;
+  background: #1F3A93;
   position: relative;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -12172,7 +12172,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .rts-single-wized {
-  background: #20282D;
+  background: #1F3A93;
   border-radius: 15px;
   padding: 40px;
   margin-bottom: 40px;
@@ -12606,7 +12606,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .bg_color-dark-1 {
-  background: #20282D;
+  background: #1F3A93;
   position: relative;
   z-index: 1;
 }
@@ -31552,4 +31552,5 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
     font-size: 30px;
   }
 }
-/*# sourceMappingURL=../maps/style.css.map */
+
+/*# sourceMappingURL=style.css.map */
