@@ -1,0 +1,11 @@
+{
+  "name": "dmt-group",
+  "private": true,
+  "scripts": {
+    "sass": "sass assets/scss/style.scss assets/css/style.css",
+    "sass:watch": "sass --watch assets/scss/style.scss:assets/css/style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.69.0"
+  }
+}
