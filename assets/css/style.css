@@ -44,7 +44,7 @@
 ==============================================  */
 /* Default  */
 :root {
-  --color-primary: #800020;
+  --color-primary: #1F3A93;
   --color-secondary: #1F1F25;
   --color-blue: #0b4df5;
   --color-sky: #82b440;
@@ -10029,7 +10029,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   }
 }
 .rts-btn.btn-primary {
-  background: #D4AF37;
+  background: #C39B3C;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -10109,7 +10109,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   height: 55px;
   width: 55px;
   border-radius: 50px;
-  background: var(--color-primary);
+  background: #C39B3C;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10159,7 +10159,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   position: absolute;
   left: -10%;
   bottom: 20px;
-  background: var(--color-primary);
+  background: #C39B3C;
   padding: 28px 25px;
   border-radius: 10px;
   transform: translateX(-40%);
@@ -11333,7 +11333,7 @@ section.main-wrapper-sticky {
   }
 }
 section.main-wrapper-sticky .sticky-statement {
-  background: #fdfddb;
+  background: #EAEFFA;
   padding: 43px;
   display: flex;
   align-items: center;
@@ -13732,7 +13732,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 
 .signle-fun-facts-one {
   text-align: center;
-  background: #fdfddb;
+  background: #EAEFFA;
   padding: 30px;
 }
 .signle-fun-facts-one .icon {
@@ -18932,7 +18932,7 @@ body.with-sticky-item {
   z-index: 3;
   width: 0;
   height: 0;
-  border-left: 15px solid var(--color-primary);
+  border-left: 15px solid #C39B3C;
   border-top: 8px solid transparent;
   border-bottom: 8px solid transparent;
   top: 50%;
@@ -21153,7 +21153,7 @@ body.with-sticky-item {
 }
 
 .contact-info-area-wrapper-p {
-  background: var(--color-primary);
+  background: #C39B3C;
   padding: 90px 60px;
   border-radius: 10px;
   margin-right: -30px;
@@ -31551,6 +31551,9 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
   .rts-banner-area.investment .banner-one-inner .title {
     font-size: 30px;
   }
+}
+.pageBackground {
+  background-color: #F9F5EB !important;
 }
 
 /*# sourceMappingURL=style.css.map */

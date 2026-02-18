@@ -16,7 +16,7 @@ require_once '../includes/header.php';
 ?>
 
 
-    <div class="rts-breadcrumb-area">
+    <div class="rts-breadcrumb-area pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -38,7 +38,7 @@ require_once '../includes/header.php';
 
 
     <!-- contact areas main -->
-    <div class="rts-contact-area-in-page" data-animation="fadeInUp" data-delay="0.2">
+    <div class="rts-contact-area-in-page pageBackground" data-animation="fadeInUp" data-delay="0.2">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -108,7 +108,7 @@ require_once '../includes/header.php';
     </div>
     <!-- contact areas main end -->
 
-        <div class="google-map-area rts-section-gapTop">
+        <div class="google-map-area rts-section-gapTop pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

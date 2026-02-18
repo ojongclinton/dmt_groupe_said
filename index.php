@@ -5,7 +5,7 @@ require_once 'config.php';
 // Page specific variables
 $page_title = 'Invena Business Consulting HTML Template';
 $page_description = 'Invena – A modern and responsive HTML template for consulting businesses. Perfect for finance, corporate, and agency websites.';
-$body_class = 'index-one';
+$body_class = 'index-one pageBackground';
 $current_page = 'home';
 
 // Include header
@@ -40,7 +40,7 @@ require_once 'includes/header.php';
     <!-- rts banner area end -->
 
     <!-- rts-about area start -->
-    <div class="rts-about-area rts-section-gap">
+    <div class="rts-about-area rts-section-gap pageBackground">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5">
@@ -100,7 +100,7 @@ require_once 'includes/header.php';
     <!-- rts-about area end -->
 
     <!-- rts latest service area start -->
-    <div class="rts-latest-service-area rts-section-gapBottom">
+    <div class="rts-latest-service-area rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -222,7 +222,7 @@ require_once 'includes/header.php';
     <!-- rts latest service area end -->
 
     <!-- rts just a consultancy area  -->
-    <div class="just-a-consultancy-area rts-section-gapBottom">
+    <div class="just-a-consultancy-area rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -284,7 +284,7 @@ require_once 'includes/header.php';
     <!-- rts just a consultancy area  end -->
 
     <!-- rts fun facts area start -->
-    <div class="rts-fun-facts-area rts-section-gapBottom mt--30">
+    <div class="rts-fun-facts-area rts-section-gapBottom mt--30 pageBackground">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-4" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
@@ -401,7 +401,7 @@ require_once 'includes/header.php';
     <div class="boost-your-business-today mt--70">
         <div class="container-2">
             <div class="col-lg-12">
-                <div class="business-boost-wrapper-main rts-section-gap">
+                <div class="business-boost-wrapper-main rts-section-gap pageBackground">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-5">

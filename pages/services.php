@@ -45,7 +45,7 @@ require_once '../includes/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="rts-service-main-wrapper-10">
+                    <div class="rts-service-main-wrapper-10 pageBackground">
                         <!-- Service 1 -->
                         <div class="signle-service-style-10">
                             <div class="content-area-wrapper">
@@ -221,7 +221,7 @@ require_once '../includes/header.php';
     <!-- working process areas end -->
 
     <!-- faq area start -->
-    <div class="rts-faq-area rts-section-gap">
+    <div class="rts-faq-area rts-section-gap pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -345,7 +345,7 @@ require_once '../includes/header.php';
     <!-- brand area end -->
 
     <!-- testimonials area start -->
-    <div class="rts-testimonials-area-five bg_image rts-section-gapBottom">
+    <div class="rts-testimonials-area-five bg_image rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

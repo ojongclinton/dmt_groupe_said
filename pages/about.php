@@ -17,7 +17,7 @@ require_once '../includes/header.php';
 
 
     <!-- rts about area start -->
-    <div class="rts-about-area-two rts-section-gap">
+    <div class="rts-about-area-two rts-section-gap pageBackground">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -75,7 +75,7 @@ require_once '../includes/header.php';
 
 
     <!-- team section start -->
-    <div class="rts-team-area rts-section-gapBottom">
+    <div class="rts-team-area rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb--60">
@@ -188,7 +188,7 @@ require_once '../includes/header.php';
     <!-- team section end -->
 
     <!-- rts business goal area start -->
-    <div class="business-goal-area-2 rts-section-gapBottom">
+    <div class="business-goal-area-2 rts-section-gapBottom pageBackground">
         <div class="container pt--30">
             <div class="row">
                 <div class="col-lg-6">
@@ -250,7 +250,7 @@ require_once '../includes/header.php';
     </div>
 
     <!-- rts clients review area start -->
-    <div class="rts-client-review-area rts-section-gapBottom">
+    <div class="rts-client-review-area rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

@@ -1,0 +1,11 @@
+<svg width="500" height="400" viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#D4AF37" stroke-width="8">
+    <path d="M180,100 L180,200 M240,100 L240,200" stroke-linecap="serif"/>
+    <circle cx="210" cy="150" r="45" />
+    <path d="M195,85 L200,75 L210,80 L220,75 L225,85 Z" fill="#D4AF37" stroke="none"/>
+  </g>
+
+  <text x="250" y="270" font-family="Serif, 'Times New Roman'" font-size="64" font-weight="bold" fill="#0A162B" text-anchor="middle" letter-spacing="4">MAESTRO</text>
+
+  <text x="250" y="310" font-family="sans-serif" font-size="18" fill="#F0E68C" text-anchor="middle" letter-spacing="2">HOSPITALITY CONSULTING</text>
+</svg>

@@ -42,7 +42,7 @@ require_once '../includes/header.php';
     </div>
 
     <!-- rts business details area left main -->
-    <div class="rts-service-details-area-main-bottom">
+    <div class="rts-service-details-area-main-bottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
