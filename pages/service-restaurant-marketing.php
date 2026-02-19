@@ -94,7 +94,7 @@ require_once '../includes/header.php';
                         <p class="disc"><?php echo t('service_detail_restaurant.approach_desc'); ?></p>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/12.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/112.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_restaurant.step1_title'); ?></h5>
@@ -108,7 +108,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/13.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/113.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_restaurant.step2_title'); ?></h5>
@@ -122,7 +122,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/10.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/110.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_restaurant.step3_title'); ?></h5>

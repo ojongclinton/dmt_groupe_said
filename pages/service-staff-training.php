@@ -94,7 +94,7 @@ require_once '../includes/header.php';
                         <p class="disc"><?php echo t('service_detail_training.approach_desc'); ?></p>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/12.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/412.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_training.step1_title'); ?></h5>
@@ -108,7 +108,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/13.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/413.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_training.step2_title'); ?></h5>
@@ -122,7 +122,7 @@ require_once '../includes/header.php';
                         </div>
                         <div class="single-step-service-details">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/10.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/410.webp" alt="service">
                             </div>
                             <div class="inner">
                                 <h5 class="title-f"><?php echo t('service_detail_training.step3_title'); ?></h5>
