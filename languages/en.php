@@ -81,7 +81,7 @@ return [
         // Consultancy Section
         'consultancy' => [
             'pre_title' => 'Our Expertise',
-            'title_part1' => 'We know how to transform',
+            'title_part1' => 'How to transform',
             'title_part2' => 'your establishment',
             'best_consulting_title' => 'Personalized Support',
             'best_consulting_desc' => 'Every establishment is unique. We adapt our solutions to your specific needs for concrete and lasting results.',

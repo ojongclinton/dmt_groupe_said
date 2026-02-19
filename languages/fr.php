@@ -81,7 +81,7 @@ return [
         // Consultancy Section
         'consultancy' => [
             'pre_title' => 'Notre Expertise',
-            'title_part1' => 'Nous savons comment transformer',
+            'title_part1' => 'comment transformer',
             'title_part2' => 'votre établissement',
             'best_consulting_title' => 'Accompagnement Personnalisé',
             'best_consulting_desc' => 'Chaque établissement est unique. Nous adaptons nos solutions à vos besoins spécifiques pour des résultats concrets et durables.',
