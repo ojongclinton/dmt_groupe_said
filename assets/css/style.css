@@ -88,7 +88,7 @@
   --transition: 0.3s;
   --font-primary: "Red Hat Display", serif;
   --font-secondary: "DM Sans", serif;
-  --font-3: "fontawesome";
+  --font-3: 'fontawesome';
   --font-size-b1: 16px;
   --font-size-b2: 15px;
   --font-size-b3: 22px;
@@ -7782,7 +7782,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 
 /* elements  */
 .banner-style-one {
-  background-image: url(../images/banner/001.webp);
+  background-image: url(../images/banner/01.webp);
   height: 850px;
   position: relative;
   z-index: 1;
@@ -11998,7 +11998,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .banner-inner-service-details-1 {
-  background-image: url(../images/banner/22.webp);
+  background-image: url(../images/banner/122.webp);
   height: 477px;
   display: flex;
   align-items: center;
@@ -31552,4 +31552,5 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
     font-size: 30px;
   }
 }
-/*# sourceMappingURL=../maps/style.css.map */
+
+/*# sourceMappingURL=style.css.map */
