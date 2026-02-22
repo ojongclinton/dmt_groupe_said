@@ -5371,7 +5371,7 @@ Copyright (c) 2015 Daniel Eden
 
 /* header  */
 .header-top-area-wrapper {
-  background: #20282D;
+  background: #1F3A93;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-top-area-wrapper {
@@ -10109,7 +10109,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   height: 55px;
   width: 55px;
   border-radius: 50px;
-  background: #C39B3C;
+  background: #1F3A93;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10159,7 +10159,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   position: absolute;
   left: -10%;
   bottom: 20px;
-  background: #C39B3C;
+  background: #1F3A93;
   padding: 28px 25px;
   border-radius: 10px;
   transform: translateX(-40%);
@@ -21153,7 +21153,7 @@ body.with-sticky-item {
 }
 
 .contact-info-area-wrapper-p {
-  background: #C39B3C;
+  background: #1F3A93;
   padding: 90px 60px;
   border-radius: 10px;
   margin-right: -30px;
@@ -31551,9 +31551,6 @@ header.header-transparent.in-full-screen .action-area .menu-btn {
   .rts-banner-area.investment .banner-one-inner .title {
     font-size: 30px;
   }
-}
-.pageBackground {
-  background-color: #F9F5EB !important;
 }
 
 /*# sourceMappingURL=style.css.map */
