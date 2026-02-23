@@ -262,7 +262,7 @@
                                 <div class="button-area">
                                     <a href="<?php echo $base_path; ?>pages/contact.php" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn"><?php echo t('buttons.contact_us'); ?></a>
                                     <button id="menu-btn" aria-label="Menu" class="menu-btn menu ml--20 ml_sm--5">
-                                        <img class="menu-light" src="<?php echo $base_path; ?>assets/images/icons/01.svg" alt="Menu-icon">
+                                        <img class="menu-light" src="<?php echo $base_path; ?>assets/images/icons/01_light.svg" alt="Menu-icon">
                                     </button>
                                 </div>
                             </div>
