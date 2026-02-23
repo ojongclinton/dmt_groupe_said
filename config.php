@@ -15,7 +15,7 @@ $base_path = isset($base_path) ? $base_path : '';
 
 // Contact Information
 define('CONTACT_EMAIL', 'contact@dmtgroupe.com');
-define('CONTACT_PHONE', '+237 651 98 44 83');
+define('CONTACT_PHONE', '+33 698 79 64 15');
 define('CONTACT_ADDRESS', '123 Fifth Avenue, Yaoundé, Cameroun');
 
 // Working Hours

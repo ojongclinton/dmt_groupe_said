@@ -29,7 +29,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: #3E484E;
+            background: #1f3a93;
             border-radius: 100%;
             position: relative;
 
@@ -63,7 +63,7 @@
     .inner-content {
         border-radius: 10px;
         padding: 40px 50px;
-        background: #3E484E;
+        background: #1f3a93;
         position: relative;
         z-index: 1;
 
@@ -85,7 +85,7 @@
                 left: 50%;
                 top: 50%;
                 transform: translate(-50%, -50%);
-                background: #3E484E;
+                background: #1f3a93;
                 z-index: -2;
                 border-radius: 50%;
 
@@ -109,11 +109,11 @@
         }
 
         .number {
-            color: #fff;
+            color: #c39b3c;
             width: 32px;
             height: 32px;
             border-radius: 500%;
-            background: #20282D;
+            background: white;
             display: flex;
             align-items: center;
             justify-content: center;

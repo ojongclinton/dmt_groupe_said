@@ -250,7 +250,7 @@ require_once '../includes/header.php';
     </div>
 
     <!-- rts clients review area start -->
-    <div class="rts-client-review-area rts-section-gapBottom pageBackground">
+    <!-- <div class="rts-client-review-area rts-section-gapBottom pageBackground">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -271,7 +271,6 @@ require_once '../includes/header.php';
             </div>
             <div class="row">
                 <div class="col-lg-12">
-
                     <div class="testimonials-wrapper-swiper-demo-2">
                         <div class="swiper mySwiper-testimonials-dmeo-2">
                             <div class="swiper-wrapper">
@@ -287,7 +286,7 @@ require_once '../includes/header.php';
                                             </p>
                                             <div class="name-desig">
                                                 <h6 class="title">Franck N'Guessan</h6>
-                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                                <p>Designer at <b>Vertex Agency</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -303,7 +302,7 @@ require_once '../includes/header.php';
                                             </p>
                                             <div class="name-desig">
                                                 <h6 class="title">Jean-Marc kouam</h6>
-                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                                <p>Designer at <b>Vertex Agency</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -315,11 +314,11 @@ require_once '../includes/header.php';
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                <?php echo t('about_page.review.rev_txt3'); ?>
+                                               <?php echo t('about_page.review.rev_txt3'); ?>
                                             </p>
                                             <div class="name-desig">
                                                 <h6 class="title">Daniel Foster</h6>
-                                                <!-- <p>Designer at <b>Vertex Agency</b></p> -->
+                                                <p>Designer at <b>Vertex Agency</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -331,7 +330,7 @@ require_once '../includes/header.php';
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- rts clients review area end -->
 
 <?php

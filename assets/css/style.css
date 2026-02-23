@@ -10029,7 +10029,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   }
 }
 .rts-btn.btn-primary {
-  background: #C39B3C;
+  background: #1f3a93;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -10109,7 +10109,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   height: 55px;
   width: 55px;
   border-radius: 50px;
-  background: #1F3A93;
+  background: #c39b3c;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10159,7 +10159,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   position: absolute;
   left: -10%;
   bottom: 20px;
-  background: #1F3A93;
+  background: #c39b3c;
   padding: 28px 25px;
   border-radius: 10px;
   transform: translateX(-40%);
@@ -10379,7 +10379,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .left-thumbnail-about-area-two .counter-about-area {
   position: absolute;
   padding: 50px 33px;
-  background: #1F3A93;
+  background: #c39b3c;
   position: absolute;
   top: 50px;
   left: -75px;
@@ -11333,7 +11333,7 @@ section.main-wrapper-sticky {
   }
 }
 section.main-wrapper-sticky .sticky-statement {
-  background: #EAEFFA;
+  background: #f8f0e3;
   padding: 43px;
   display: flex;
   align-items: center;
@@ -11447,7 +11447,7 @@ section.main-wrapper-sticky .sticky-statement .right p {
 section.main-wrapper-sticky .sticky-statement .right .arrow {
   height: 62px;
   width: 62px;
-  background: #1F3A93;
+  background: white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11460,7 +11460,7 @@ section.main-wrapper-sticky .sticky-statement .right .arrow {
 }
 section.main-wrapper-sticky .sticky-statement .right .arrow i {
   font-size: 18px;
-  color: #FFFFFF;
+  color: #c39b3c;
 }
 
 .service-bg-style-one-wrapper {
@@ -13043,11 +13043,11 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .bg-main {
-  background: #1F3A93;
+  background: #f8f0e3;
 }
 .bg-main .title-style-one .pre {
   border: 1px solid #E9E9E9;
-  color: #fff;
+  color: #1f3a93;
   border-radius: 6px;
 }
 @media only screen and (max-width: 575px) {
@@ -13056,7 +13056,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   }
 }
 .bg-main .title-style-one .title {
-  color: #fff;
+  color: #1f3a93;
 }
 .bg-main .title-style-one.left {
   text-align: left;
@@ -13538,7 +13538,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #3E484E;
+  background: #1f3a93;
   border-radius: 100%;
   position: relative;
 }
@@ -13574,7 +13574,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 .single-working-process-one .inner-content {
   border-radius: 10px;
   padding: 40px 50px;
-  background: #3E484E;
+  background: #1f3a93;
   position: relative;
   z-index: 1;
 }
@@ -13597,7 +13597,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  background: #3E484E;
+  background: #1f3a93;
   z-index: -2;
   border-radius: 50%;
 }
@@ -13620,11 +13620,11 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
   }
 }
 .single-working-process-one .inner-content .number {
-  color: #fff;
+  color: #c39b3c;
   width: 32px;
   height: 32px;
   border-radius: 500%;
-  background: #20282D;
+  background: white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18857,7 +18857,7 @@ body.with-sticky-item {
   box-shadow: none;
   font-size: 18px;
   color: #1C2539;
-  background: transparent;
+  background: #f8f0e3;
   font-weight: 700;
 }
 @media only screen and (max-width: 767px) {
@@ -19752,7 +19752,7 @@ body.with-sticky-item {
   display: flex;
   align-items: center;
   gap: 30px;
-  background: #20282D;
+  background: #1f3a93;
   border-radius: 20px;
   overflow: hidden;
 }
@@ -19920,7 +19920,7 @@ body.with-sticky-item {
   justify-content: space-between;
 }
 .single-testimonials-style-five .inner-content .body-end .star-icon {
-  color: var(--color-primary);
+  color: #fdd017;
 }
 
 .title-between-area {

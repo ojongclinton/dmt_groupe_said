@@ -284,7 +284,7 @@ require_once 'includes/header.php';
     <!-- rts just a consultancy area  end -->
 
     <!-- rts fun facts area start -->
-    <div class="rts-fun-facts-area rts-section-gapBottom mt--30 pageBackground">
+    <!-- <div class="rts-fun-facts-area rts-section-gapBottom mt--30 pageBackground">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-4" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
@@ -319,7 +319,7 @@ require_once 'includes/header.php';
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- rts fun facts area end -->
 
     <!-- eorking process areas start -->

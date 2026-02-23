@@ -103,7 +103,8 @@
                 box-shadow: none;
                 font-size: 18px;
                 color: #1C2539;
-                background: transparent;
+                // background: transparent;
+                background: #f8f0e3;
                 font-weight: 700;
                 @media #{$sm-layout} {
                     padding: 24px 15px;

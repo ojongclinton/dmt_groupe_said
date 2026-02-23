@@ -327,12 +327,12 @@
 
 
 .bg-main {
-    background: #1F3A93;
+    background: #f8f0e3;
 
     .title-style-one {
         .pre {
             border: 1px solid #E9E9E9;
-            color: #fff;
+            color: #1f3a93;
             border-radius: 6px;
 
             @media #{$large-mobile} {
@@ -341,7 +341,7 @@
         }
 
         .title {
-            color: #fff;
+            color: #1f3a93;
         }
 
         &.left {

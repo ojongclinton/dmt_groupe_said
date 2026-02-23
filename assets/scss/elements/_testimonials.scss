@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     gap: 30px;
-    background: #20282D;
+    background: #1f3a93;
     border-radius: 20px;
     overflow: hidden;
 
@@ -221,7 +221,8 @@
             justify-content: space-between;
 
             .star-icon {
-                color: var(--color-primary);
+                // color: var(--color-primary);
+                color: #fdd017;
             }
         }
     }
