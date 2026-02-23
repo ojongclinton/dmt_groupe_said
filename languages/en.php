@@ -156,15 +156,17 @@ return [
         // Testimonials Section
         'testimonials_pre' => 'Testimonials',
         'testimonials_title' => 'Our Customer Feedbacks',
-        'testimonial1_name' => 'Jean-Pierre Mbarga',
+        'testimonial1_name' => 'Isaac Cohen',
         'testimonial1_role' => 'Hotel Manager',
         'testimonial1_text' => 'DMT Groupe has transformed our establishment. Thanks to their expertise, our occupancy rate has increased by 30% and customer satisfaction has never been higher.',
-        'testimonial2_name' => 'Marie Fotso',
+        'testimonial2_name' => 'Louise Rochefort',
         'testimonial2_role' => 'Restaurant Owner',
         'testimonial2_text' => 'A professional and attentive team. Their support helped us optimize our costs while improving the quality of our services.',
-        'testimonial3_name' => 'Paul Nganou',
+        'testimonial3_name' => 'Jean-Pierre Assane',
         'testimonial3_role' => 'Hotel Manager',
         'testimonial3_text' => 'I highly recommend DMT Groupe. Their personalized approach and knowledge of the hotel industry make all the difference.',
+        'testimonial4_name' => 'Omar Tabet',
+        'testimonial4_role' => 'Executive Chef',
     ],
 
     // Common Buttons

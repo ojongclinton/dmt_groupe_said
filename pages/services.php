@@ -445,6 +445,32 @@ require_once '../includes/header.php';
                                     </div>
                                 </div>
                             </div>
+                            <div class="swiper-slide">
+                                <div class="single-testimonials-style-five">
+                                    <div class="thumbnail">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/304.webp" alt="testimonials">
+                                    </div>
+                                    <div class="inner-content">
+                                        <div class="name-area">
+                                            <h5 class="title"><?php echo t('services_page.testimonial4_name'); ?></h5>
+                                            <span><?php echo t('services_page.testimonial4_role'); ?></span>
+                                        </div>
+                                        <p class="disc">
+                                            "<?php echo t('about_page.review.rev_txt3'); ?>"
+                                        </p>
+                                        <div class="body-end">
+                                            <a href="#"><img src="<?php echo $base_path; ?>assets/images/testimonials/icons/03.webp" alt="Client_logo"></a>
+                                            <div class="star-icon">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
