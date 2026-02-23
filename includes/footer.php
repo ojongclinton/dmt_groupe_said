@@ -111,7 +111,7 @@
         <button class="close-icon-menu" title="Close menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
         <div class="rts-sidebar-menu-desktop">
-            <a class="logo-1" href="<?php echo $base_path; ?>index.php"><img class="logo" src="<?php echo $base_path; ?>assets/images/logo/sii.png" alt="<?php echo SITE_NAME; ?>"></a>
+            <a class="logo-1" href="<?php echo $base_path; ?>index.php"><img class="logo" src="<?php echo $base_path; ?>assets/images/logo/s1.png" alt="<?php echo SITE_NAME; ?>"></a>
             <div class="body d-none d-xl-block">
                 <p class="disc">
                     <?php echo t('home.about.description'); ?>
