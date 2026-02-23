@@ -5541,7 +5541,7 @@ Copyright (c) 2015 Daniel Eden
 
 #search,
 #menu-btn {
-  background: #F2F2F2;
+  background: #f8f0e3;
   height: 55px;
   min-width: 55px;
   display: flex;
@@ -5552,7 +5552,7 @@ Copyright (c) 2015 Daniel Eden
 }
 #search i,
 #menu-btn i {
-  color: #1C2539;
+  color: #1F3A93;
   font-size: 18px;
 }
 
@@ -7448,7 +7448,7 @@ header.header-three .rts-mega-menu.service-mega-menu-style {
   width: 100%;
   padding: 18px 25px !important;
   border-radius: 5px;
-  background: #f9f9f9;
+  background: #f8f0e3;
   display: block;
   transition: 0.3s;
 }
@@ -14199,7 +14199,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .business-boost-wrapper-main {
-  background: #fdfddb;
+  background: white;
   border-bottom: 5px solid #20282D;
   box-shadow: 0px 22px 23px rgba(0, 0, 0, 0.07);
 }
@@ -15297,7 +15297,7 @@ body.with-sticky-item {
 }
 
 .footer-bg-two {
-  background: url(../images/footer/02.webp);
+  background-color: #f8f0e3;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -15366,7 +15366,7 @@ body.with-sticky-item {
   position: relative;
   z-index: 1;
   font-size: 14px;
-  color: var(--color-primary);
+  color: #c39b3c;
 }
 .footer-two-single-wized .contact-info-1 .icon i::after {
   position: absolute;
@@ -17836,7 +17836,7 @@ body.with-sticky-item {
 .rts-testimonials-area-five .swiper-button-prevs {
   width: 40px;
   height: 35px;
-  background: #F2F2F2;
+  background: #f8f0e3;
   border-radius: 8px;
   border: 1px solid transparent;
   display: flex;
@@ -21192,7 +21192,7 @@ body.with-sticky-item {
   justify-content: center;
 }
 .contact-info-area-wrapper-p .single-contact-info .icon i {
-  color: var(--color-primary);
+  color: #c39b3c;
 }
 .contact-info-area-wrapper-p .single-contact-info .info-wrapper span {
   color: #B3B7C1;

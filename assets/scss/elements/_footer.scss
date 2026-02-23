@@ -1,5 +1,6 @@
 .footer-bg-two {
-    background: url(../images/footer/02.webp);
+    // background: url(../images/footer/02.webp);
+    background-color: #f8f0e3;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -95,7 +96,8 @@
                 position: relative;
                 z-index: 1;
                 font-size: 14px;
-                color: var(--color-primary);
+                // color: var(--color-primary);
+                color: #c39b3c;
 
                 &::after {
                     position: absolute;
