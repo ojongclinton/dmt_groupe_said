@@ -370,7 +370,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/03.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/103.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
@@ -396,7 +396,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/04.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/104.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
@@ -422,7 +422,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/03.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/203.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
