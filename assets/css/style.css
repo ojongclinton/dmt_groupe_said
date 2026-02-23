@@ -5541,7 +5541,7 @@ Copyright (c) 2015 Daniel Eden
 
 #search,
 #menu-btn {
-  background: #f8f0e3;
+  background: #1F3A93;
   height: 55px;
   min-width: 55px;
   display: flex;
@@ -17836,7 +17836,7 @@ body.with-sticky-item {
 .rts-testimonials-area-five .swiper-button-prevs {
   width: 40px;
   height: 35px;
-  background: #f8f0e3;
+  background: #1f3a93;
   border-radius: 8px;
   border: 1px solid transparent;
   display: flex;
@@ -17845,7 +17845,7 @@ body.with-sticky-item {
 }
 .rts-testimonials-area-five .swiper-button-nexts i,
 .rts-testimonials-area-five .swiper-button-prevs i {
-  color: #1C2539;
+  color: white;
 }
 .rts-testimonials-area-five .swiper-button-nexts::after,
 .rts-testimonials-area-five .swiper-button-prevs::after {
