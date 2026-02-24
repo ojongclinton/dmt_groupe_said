@@ -3,8 +3,8 @@
 require_once 'config.php';
 
 // Page specific variables
-$page_title = 'Invena Business Consulting HTML Template';
-$page_description = 'Invena – A modern and responsive HTML template for consulting businesses. Perfect for finance, corporate, and agency websites.';
+$page_title = 'DMT Group Consulting';
+$page_description = 'DMT Groupe est un cabinet de conseil spécialisé dans l\'accompagnement des établissements hôteliers et de restauration.';
 $body_class = 'index-one';
 $current_page = 'home';
 
