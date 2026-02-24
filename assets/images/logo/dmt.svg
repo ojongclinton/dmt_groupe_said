@@ -1,0 +1,60 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <!-- Gold metallic gradient -->
+  <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#5c4300"></stop>
+    <stop offset="25%" stop-color="#caa133"></stop>
+    <stop offset="50%" stop-color="#fff3b0"></stop>
+    <stop offset="75%" stop-color="#d4af37"></stop>
+    <stop offset="100%" stop-color="#5c4300"></stop>
+  </linearGradient>
+
+  <filter id="shadow">
+    <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.35"></feDropShadow>
+  </filter>
+</defs>
+
+<!-- Main emblem shape -->
+<path d="M200 350 
+         Q500 200 800 350 
+         L760 680 
+         Q500 880 240 680 Z" fill="#0d0d0d" stroke="url(#gold)" stroke-width="8" filter="url(#shadow)"></path>
+
+<!-- Top stars -->
+<text x="500" y="310" text-anchor="middle" font-size="60" fill="url(#gold)" letter-spacing="20">
+      ★ ★ ★ ★ ★
+</text>
+
+<!-- Hotel dome -->
+<path d="M380 380 
+         Q500 280 620 380 
+         L620 410 
+         L380 410 Z" fill="url(#gold)"></path>
+
+<circle cx="500" cy="280" r="12" fill="url(#gold)"></circle>
+
+<!-- DMT main -->
+<text x="500" y="540" text-anchor="middle" font-family="Cinzel, Playfair Display, serif" font-size="220" fill="url(#gold)" letter-spacing="15" filter="url(#shadow)">
+      DMT
+</text>
+
+<!-- Elegant ribbon -->
+<path d="M300 580 
+         L700 580 
+         Q720 610 700 640 
+         L300 640 
+         Q280 610 300 580 Z" fill="#111" stroke="url(#gold)" stroke-width="4"></path>
+
+<!-- GROUP in calligraphy style -->
+<text x="500" y="625" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="70" fill="url(#gold)">
+      Group
+</text>
+
+<!-- Crossed cutlery -->
+<line x1="420" y1="720" x2="600" y2="820" stroke="url(#gold)" stroke-width="12"></line>
+
+<line x1="600" y1="720" x2="420" y2="820" stroke="url(#gold)" stroke-width="12"></line>
+
+</svg>
