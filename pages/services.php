@@ -459,7 +459,7 @@ require_once '../includes/header.php';
                                             "<?php echo t('about_page.review.rev_txt3'); ?>"
                                         </p>
                                         <div class="body-end">
-                                            <a href="#"><img src="<?php echo $base_path; ?>assets/images/testimonials/icons/03.webp" alt="Client_logo"></a>
+                                            <!-- <a href="#"><img src="<?php echo $base_path; ?>assets/images/testimonials/icons/03.webp" alt="Client_logo"></a> -->
                                             <div class="star-icon">
                                                 <i class="fas fa-star"></i>
                                                 <i class="fas fa-star"></i>
