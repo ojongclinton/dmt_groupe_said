@@ -59,7 +59,7 @@ require_once '../includes/header.php';
                                 <a href="<?php echo $base_path; ?>pages/service-hotel-operations.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/07.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/007.webp" alt="service">
                             </div>
                         </div>
                         <!-- Service 2 -->
@@ -75,13 +75,13 @@ require_once '../includes/header.php';
                                 <a href="<?php echo $base_path; ?>pages/service-restaurant-marketing.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/08.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/008.webp" alt="service">
                             </div>
                         </div>
                         <!-- Service 3 -->
                         <div class="signle-service-style-10 order-control-sm-device">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/09.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/009.webp" alt="service">
                             </div>
                             <div class="content-area-wrapper">
                                 <div class="icon">
@@ -97,7 +97,7 @@ require_once '../includes/header.php';
                         <!-- Service 4 -->
                         <div class="signle-service-style-10 order-control-sm-device">
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/10.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/010.webp" alt="service">
                             </div>
                             <div class="content-area-wrapper">
                                 <div class="icon">
@@ -123,7 +123,7 @@ require_once '../includes/header.php';
                                 <a href="<?php echo $base_path; ?>pages/service-digitalization.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/07.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/0007.webp" alt="service">
                             </div>
                         </div>
                         <!-- Service 6 -->
@@ -139,7 +139,7 @@ require_once '../includes/header.php';
                                 <a href="<?php echo $base_path; ?>pages/service-concept-design.php" class="arrow-right-btn"><?php echo t('buttons.learn_more'); ?> <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="thumbnail">
-                                <img src="<?php echo $base_path; ?>assets/images/service/08.webp" alt="service">
+                                <img src="<?php echo $base_path; ?>assets/images/service/0008.webp" alt="service">
                             </div>
                         </div>
                     </div>
@@ -212,7 +212,7 @@ require_once '../includes/header.php';
                 </div>
                 <div class="col-lg-6">
                     <div class="thumbnail-working-procss-one" data-animation="zoomOut" data-delay="0.2" data-duration="1.2">
-                        <img src="<?php echo $base_path; ?>assets/images/process/03.webp" alt="working-process">
+                        <img src="<?php echo $base_path; ?>assets/images/process/003.webp" alt="working-process">
                     </div>
                 </div>
             </div>
@@ -236,7 +236,7 @@ require_once '../includes/header.php';
             <div class="row g-5">
                 <div class="col-lg-6">
                     <div class="thumbnail-faq-left">
-                        <img src="<?php echo $base_path; ?>assets/images/faq/02.webp" alt="faq-image area">
+                        <img src="<?php echo $base_path; ?>assets/images/faq/002.webp" alt="faq-image area">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -370,7 +370,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/03.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/103.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
@@ -396,7 +396,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/04.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/104.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
@@ -422,7 +422,7 @@ require_once '../includes/header.php';
                             <div class="swiper-slide">
                                 <div class="single-testimonials-style-five">
                                     <div class="thumbnail">
-                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/03.webp" alt="testimonials">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/203.webp" alt="testimonials">
                                     </div>
                                     <div class="inner-content">
                                         <div class="name-area">
@@ -434,6 +434,32 @@ require_once '../includes/header.php';
                                         </p>
                                         <div class="body-end">
                                             <!-- <a href="#"><img src="<?php echo $base_path; ?>assets/images/testimonials/icons/03.webp" alt="Client_logo"></a> -->
+                                            <div class="star-icon">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="single-testimonials-style-five">
+                                    <div class="thumbnail">
+                                        <img src="<?php echo $base_path; ?>assets/images/testimonials/304.webp" alt="testimonials">
+                                    </div>
+                                    <div class="inner-content">
+                                        <div class="name-area">
+                                            <h5 class="title"><?php echo t('services_page.testimonial4_name'); ?></h5>
+                                            <span><?php echo t('services_page.testimonial4_role'); ?></span>
+                                        </div>
+                                        <p class="disc">
+                                            "<?php echo t('about_page.review.rev_txt3'); ?>"
+                                        </p>
+                                        <div class="body-end">
+                                            <a href="#"><img src="<?php echo $base_path; ?>assets/images/testimonials/icons/03.webp" alt="Client_logo"></a>
                                             <div class="star-icon">
                                                 <i class="fas fa-star"></i>
                                                 <i class="fas fa-star"></i>

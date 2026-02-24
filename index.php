@@ -3,9 +3,9 @@
 require_once 'config.php';
 
 // Page specific variables
-$page_title = 'Invena Business Consulting HTML Template';
-$page_description = 'Invena – A modern and responsive HTML template for consulting businesses. Perfect for finance, corporate, and agency websites.';
-$body_class = 'index-one pageBackground';
+$page_title = 'DMT Group Consulting';
+$page_description = 'DMT Groupe est un cabinet de conseil spécialisé dans l\'accompagnement des établissements hôteliers et de restauration.';
+$body_class = 'index-one';
 $current_page = 'home';
 
 // Include header
@@ -77,7 +77,7 @@ require_once 'includes/header.php';
                     <div class="thumbnail-about-and-progress-1">
 
                         <div class="thumbnail-about-1">
-                            <img src="assets/images/about/01.webp" alt="about">
+                            <img src="assets/images/about/001.webp" alt="about">
                         </div>
                         <div class="progress-circle-main-wrapper">
 
@@ -228,10 +228,10 @@ require_once 'includes/header.php';
                 <div class="col-lg-6">
                     <div class="consultancy-thumbnail-area">
                         <div class="large-image">
-                            <img src="assets/images/about/02.webp" alt="thumbnail">
+                            <img src="assets/images/about/002.webp" alt="thumbnail">
                         </div>
                         <div class="small-iamge images-r">
-                            <img src="assets/images/about/03.webp" alt="">
+                            <img src="assets/images/about/003.webp" alt="">
                         </div>
                     </div>
                 </div>
@@ -389,7 +389,7 @@ require_once 'includes/header.php';
                 </div>
                 <div class="col-lg-6">
                     <div class="thumbnail-working-procss-one" data-animation="zoomOut" data-delay="0.2" data-duration="1.2">
-                        <img src="assets/images/process/01.webp" alt="working-process">
+                        <img src="assets/images/process/001.webp" alt="working-process">
                     </div>
                 </div>
             </div>
@@ -406,7 +406,7 @@ require_once 'includes/header.php';
                         <div class="row">
                             <div class="col-lg-5">
                                 <div class="business-marklting-area-thumb">
-                                    <img src="assets/images/business/01.webp" alt="business_area">
+                                    <img src="assets/images/business/001.webp" alt="business_area">
                                 </div>
                             </div>
                             <div class="col-lg-6 offset-lg-1">

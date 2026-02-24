@@ -22,9 +22,9 @@ require_once '../includes/header.php';
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="left-thumbnail-about-area-two">
-                        <img src="../assets/images/about/04.webp" alt="about">
+                        <img src="../assets/images/about/004.webp" alt="about">
                         <div class="small-image">
-                            <img src="../assets/images/about/05.webp" alt="small">
+                            <img src="../assets/images/about/005.webp" alt="small">
                         </div>
                         <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="10">00</span>+
@@ -241,7 +241,7 @@ require_once '../includes/header.php';
                             <img src="../assets/images/business-goal/02.webp" alt="">
                         </div>
                         <div class="small-thumbnail images-r">
-                            <img src="../assets/images/business-goal/01.webp" alt="">
+                            <img src="../assets/images/business-goal/001.webp" alt="">
                         </div>
                     </div>
                 </div>

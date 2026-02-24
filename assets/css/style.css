@@ -7782,7 +7782,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 
 /* elements  */
 .banner-style-one {
-  background-image: url(../images/banner/01.webp);
+  background-image: url(../images/banner/001.webp);
   height: 850px;
   position: relative;
   z-index: 1;
@@ -11364,7 +11364,7 @@ section.main-wrapper-sticky .sticky-statement * {
   transition: 0.3s;
 }
 section.main-wrapper-sticky .sticky-statement:hover {
-  background-image: url(../images/service/06.webp);
+  background-image: url(../images/service/0006.webp);
   background-position: center center;
 }
 section.main-wrapper-sticky .sticky-statement:hover .left-side img {
@@ -11998,7 +11998,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .banner-inner-service-details-1 {
-  background-image: url(../images/banner/22.webp);
+  background-image: url(../images/banner/122.webp);
   height: 477px;
   display: flex;
   align-items: center;
